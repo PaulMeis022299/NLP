@@ -49,6 +49,7 @@ def main():
                       help='Limit the number of examples to evaluate on.')
 
     training_args, args = argp.parse_args_into_dataclasses()
+    training_args.add_argument('--evaluation_type', type=str, default='epoch')
 
     # Dataset selection
     # IMPORTANT: this code path allows you to load custom datasets different from the standard SQuAD or SNLI ones.
@@ -162,7 +163,7 @@ def main():
         train_dataset=train_dataset_featurized,
         eval_dataset=eval_dataset_featurized,
         tokenizer=tokenizer,
-        compute_metrics=compute_metrics_and_store_predictions
+        compute_metrics=compute_metrics_and_store_predictions,
     )
     # Train and/or evaluate
     if training_args.do_train:
