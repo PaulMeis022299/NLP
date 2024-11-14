@@ -3,7 +3,7 @@ from transformers import AutoTokenizer, AutoModelForSequenceClassification, \
     AutoModelForQuestionAnswering, Trainer, TrainingArguments, HfArgumentParser
 import evaluate
 from helpers import prepare_dataset_nli, prepare_train_dataset_qa, \
-    prepare_validation_dataset_qa, QuestionAnsweringTrainer, compute_accuracy
+    prepare_validation_dataset_qa, QuestionAnsweringTrainer, compute_accuracy, compute_metrics_custom
 import os
 import json
 
@@ -47,9 +47,10 @@ def main():
                       help='Limit the number of examples to train on.')
     argp.add_argument('--max_eval_samples', type=int, default=None,
                       help='Limit the number of examples to evaluate on.')
-
+    
     training_args, args = argp.parse_args_into_dataclasses()
-    training_args.add_argument('--evaluation_type', type=str, default='epoch')
+
+    
 
     # Dataset selection
     # IMPORTANT: this code path allows you to load custom datasets different from the standard SQuAD or SNLI ones.
@@ -146,6 +147,7 @@ def main():
             predictions=eval_preds.predictions, references=eval_preds.label_ids)
     elif args.task == 'nli':
         compute_metrics = compute_accuracy
+        compute_metrics = compute_metrics_custom
     
 
     # This function wraps the compute_metrics function, storing the model's predictions

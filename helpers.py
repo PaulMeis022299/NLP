@@ -35,6 +35,50 @@ def compute_accuracy(eval_preds: EvalPrediction):
             np.float32).mean().item()
     }
 
+def compute_metrics_custom(eval_pred: EvalPrediction):
+    # Unpack predictions and labels
+    logits, labels = eval_pred.predictions, eval_pred.label_ids
+    # Convert logits to predicted classes
+    predictions = np.argmax(logits, axis=-1)
+    
+    # Calculate accuracy
+    accuracy = np.mean(predictions == labels)
+    
+    # Calculate F1 score (macro-averaged for multi-class)
+    unique_labels = np.unique(labels)
+    f1_scores = []
+    
+    for label in unique_labels:
+        # True positives, false positives, false negatives
+        true_positive = np.sum((predictions == label) & (labels == label))
+        false_positive = np.sum((predictions == label) & (labels != label))
+        false_negative = np.sum((predictions != label) & (labels == label))
+        
+        # Precision and Recall for this label
+        precision = true_positive / (true_positive + false_positive) if (true_positive + false_positive) > 0 else 0
+        recall = true_positive / (true_positive + false_negative) if (true_positive + false_negative) > 0 else 0
+        
+        # F1 for this label
+        f1 = (2 * precision * recall) / (precision + recall) if (precision + recall) > 0 else 0
+        f1_scores.append(f1)
+    
+    # Macro-average F1 score
+    macro_f1 = np.mean(f1_scores)
+
+    # Calculate confusion matrix
+    num_labels = len(unique_labels)
+    confusion_matrix = np.zeros((num_labels, num_labels), dtype=int)
+    
+    for true_label, pred_label in zip(labels, predictions):
+        confusion_matrix[true_label, pred_label] += 1
+    
+    # Convert the confusion matrix to a dictionary for easier logging
+    confusion_dict = {
+        f"confusion_{i}_{j}": confusion_matrix[i, j]
+        for i in range(num_labels) for j in range(num_labels)
+    }
+    
+    return {"accuracy": accuracy, "f1": macro_f1, **confusion_dict}
 
 # This function preprocesses a question answering dataset, tokenizing the question and context text
 # and finding the right offsets for the answer spans in the tokenized context (to use as labels).
