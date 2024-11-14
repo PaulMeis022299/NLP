@@ -9,6 +9,7 @@ import json
 
 NUM_PREPROCESSING_WORKERS = 2
 
+os.environ["WANDB_DISABLED"] = "true"
 
 def main():
     argp = HfArgumentParser(TrainingArguments)
