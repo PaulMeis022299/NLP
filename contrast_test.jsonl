@@ -1,0 +1,663 @@
+{"premise": "It is a woman in a blue apron that is holding a container of ice cream.", "hypothesis": "It is a woman in an apron that is cooking spaghetti.", "label": 2}
+{"premise": "It is a man who dances with a woman in a white Egyptian costume.", "hypothesis": "It is a man who dances with a woman in costume.", "label": 0}
+{"premise": "It is children who play in a shallow pool next to a large image of a girl's face.", "hypothesis": "It is the children who are in a very deep pool.", "label": 2}
+{"premise": "A picture on the shoulders of another woman is being taken by a woman in cold weather.", "hypothesis": "A picture is being taken by a woman in cold weather.", "label": 0}
+{"premise": "It is a woman who is taking a picture on the shoulders of another woman in cold weather.", "hypothesis": "It is a woman that is taking a picture in cold weather.", "label": 0}
+{"premise": "A helmet while sitting on a motorcycle is being worn by a young boy in a red shirt.", "hypothesis": "Some plants are being watered by a young boy.", "label": 2}
+{"premise": "It while sitting on a motorcycle is a young boy in a red shirt that is wearing a helmet.", "hypothesis": "It is a young boy who is watering some plants.", "label": 2}
+{"premise": "It is the team which moves their traditional boat down the river swiftly.", "hypothesis": "It is the people which are in a boat.", "label": 0}
+{"premise": "It is a male with sunglasses who is poking at a tree with a pole.", "hypothesis": "It is no one which is poking.", "label": 2}
+{"premise": "A fish at a dock is prepared by two men.", "hypothesis": "Their fish is being cleaned by two men.", "label": 0}
+{"premise": "It is two men which prepare a fish at a dock.", "hypothesis": "It is two men who are cleaning their fish.", "label": 0}
+{"premise": "It is four kids who pose on a stage.", "hypothesis": "It is several children who are posing on a stage.", "label": 0}
+{"premise": "The camera is smiled at by an old man in a gray shirt while doing laundry in a small room.", "hypothesis": "The camera is frowned at by the man.", "label": 2}
+{"premise": "While doing laundry in a small room it is an old man in a gray shirt that smiles at the camera.", "hypothesis": "It is the man which frowns at the camera.", "label": 2}
+{"premise": "It is a woman in a yellow skirt who is dancing with a man in a white shirt, with another couple dancing in the background.", "hypothesis": "It is two men who dance together in the middle.", "label": 2}
+{"premise": "It is a cyclist dressed in black and White who is pointing.", "hypothesis": "It is a cyclist dressed in black and White which eats cheese.", "label": 2}
+{"premise": "Bread is being looked for by a woman in an apron.", "hypothesis": "An apron is being worn by a woman.", "label": 0}
+{"premise": "It is a woman in an apron who is looking for bread.", "hypothesis": "It is a woman that is wearing an apron.", "label": 0}
+{"premise": "It is many children which play in the water.", "hypothesis": "It is the children who are playing mini golf.", "label": 2}
+{"premise": "A tripod is being used by a photographer to take a picture of a sunset.", "hypothesis": "The camera is being held by the photographer in his hands.", "label": 2}
+{"premise": "It is a photographer who is using a tripod to take a picture of a sunset.", "hypothesis": "It is the photographer who is holding the camera in his hands.", "label": 2}
+{"premise": "It is a woman who plays with a Brown furry dog in the wind.", "hypothesis": "It is the crazy cat lady which is scooping the litter box.", "label": 2}
+{"premise": "A tennis ball on a court is hit by a boy.", "hypothesis": "A ball is being hit by a boy.", "label": 0}
+{"premise": "It is a boy who hits a tennis ball on a court.", "hypothesis": "It is a boy who is hitting a ball.", "label": 0}
+{"premise": "A kick for an audience is demonstrated by two female martial artists.", "hypothesis": "Moves for the audience are demonstrated by two martial artists.", "label": 0}
+{"premise": "It is two female martial artists which demonstrate a kick for an audience.", "hypothesis": "It is two martial artists who demonstrate moves for the audience.", "label": 0}
+{"premise": "It is two women who are getting their pictures taken with a man in his underwear.", "hypothesis": "It is the women which are in their underwear.", "label": 2}
+{"premise": "It is a woman in a striped shirt that is walking a horse across a street.", "hypothesis": "It is a human and an animal which are outdoors.", "label": 0}
+{"premise": "It is a group of four children who pokes at two small turtles in the grass.", "hypothesis": "It is a group of kids who was playing in the grass.", "label": 0}
+{"premise": "A hug is being given by the young lady to the old man.", "hypothesis": "A hug is being given by the young man to the old man.", "label": 2}
+{"premise": "It is the young lady who is giving a hug to the old man.", "hypothesis": "It is the young man who is giving a hug to the old man.", "label": 2}
+{"premise": "It is a brown dog which races through a field.", "hypothesis": "It is a dog who is racing.", "label": 0}
+{"premise": "It is a man of the cloth who puts a black substance on a man's forehead.", "hypothesis": "It is the women who are at the park.", "label": 2}
+{"premise": "It is several people who are waiting in a metro station.", "hypothesis": "It is the people which are indoors.", "label": 0}
+{"premise": "It is a man who is working on an Earthen structure with a pickaxe.", "hypothesis": "It is a man which has tools.", "label": 0}
+{"premise": "Hands are being held by a man and a woman on the shore of a lake.", "hypothesis": "Hands on the shore are held by a couple.", "label": 0}
+{"premise": "It is a man and a woman who are holding hands on the shore of a lake.", "hypothesis": "It is a couple who holds hands on the shore.", "label": 0}
+{"premise": "Water is cleared by two men riding a boat in on a sunny day.", "hypothesis": "It is a couple people by which activities are being done in a boat, on a nice day.", "label": 0}
+{"premise": "It is two men riding a boat in which clear water on a sunny day.", "hypothesis": "It is a couple people who are doing activities in a boat on a nice day.", "label": 0}
+{"premise": "It is a musical group who performs with their instruments on stage.", "hypothesis": "It is a rock band who performs on the beach.", "label": 2}
+{"premise": "It is a woman with a blue shirt and colorful hair who has thrown the bowling ball justly.", "hypothesis": "It is a woman who is Bowling.", "label": 0}
+{"premise": "The road is being littered by bicycles as boy pull door.", "hypothesis": "While carrying his bicycle out to the clean street a door is opened by an old man.", "label": 2}
+{"premise": "It is bicycles who are littering the road as boy pull door.", "hypothesis": "While carrying his bicycle out to the clean street it is an old man that opens a door.", "label": 2}
+{"premise": "It is a brown hair woman in a blue shirt, decorated with gold trimmings, that paints a picture of two windows.", "hypothesis": "It is a woman who is painting.", "label": 0}
+{"premise": "Food is being purchased by a group of people in green bright vests.", "hypothesis": "Food is bought by a group of people.", "label": 0}
+{"premise": "It is a group of people in green bright vests that is purchasing food.", "hypothesis": "It is a group of people which buys food.", "label": 0}
+{"premise": "It is a young woman who is about to descend the stairs into a metro station.", "hypothesis": "It is a young lady who is outside the train station.", "label": 0}
+{"premise": "It is man with a spider web and spiders which painted on his face.", "hypothesis": "It is the man who has nothing on his face.", "label": 2}
+{"premise": "A blue guitar is being played by a young man.", "hypothesis": "The violin is played by an old man to a group of people.", "label": 2}
+{"premise": "It is a young man who is playing a blue guitar.", "hypothesis": "It is an old man who plays the violin to a group of people.", "label": 2}
+{"premise": "While covered in mud it is men who are playing rugby.", "hypothesis": "It is the men who are perfectly free of mud.", "label": 2}
+{"premise": "It is the gentlemen with the red plaid shirt and black pants who are speaking to a young lady holding a blue folder.", "hypothesis": "It is the gentleman who is speaking to an old lady.", "label": 2}
+{"premise": "It is a little boy who is riding a yellow bicycle across a town square.", "hypothesis": "It is a boy who has a yellow bike.", "label": 0}
+{"premise": "While holding a hebrew newspaper, it is a man in a blue that t-shirt posing was collared by, at somebody.", "hypothesis": "The newspaper is being worn by him on his head.", "label": 2}
+{"premise": "While holding a hebrew newspaper, it is a man in a blue which, collared t-shirt posing at somebody.", "hypothesis": "It is him who is wearing the newspaper on his head.", "label": 2}
+{"premise": "A stop sign is being held by a road worker to direct traffic.", "hypothesis": "A shotgun is being held by a road worker to direct traffic.", "label": 2}
+{"premise": "It is a road worker who is holding a stop sign to direct traffic.", "hypothesis": "It is a road worker who is holding a shotgun to direct traffic.", "label": 2}
+{"premise": "The street is being crossed by a man with a tan jacket with a full grocery bag.", "hypothesis": "Nothing but a t-shirt is being worn by the man.", "label": 2}
+{"premise": "It is a man with a tan jacket with a full grocery bag that is crossing the street.", "hypothesis": "It is the man who is wearing nothing but a t-shirt.", "label": 2}
+{"premise": "A soccer ball is being kicked by a little kid in the middle of a debris field.", "hypothesis": "A canoe is being paddled by a youngster.", "label": 2}
+{"premise": "It is a little kid in the middle of a debris field who is kicking a soccer ball.", "hypothesis": "It is a youngster who is paddling a canoe.", "label": 2}
+{"premise": "While a woman with an umbrella walks behind him a picture is being taken by a man in a blue t-shirt.", "hypothesis": "While a woman walks behind him a picture is being taken by a man outdoors.", "label": 0}
+{"premise": "While a woman with an umbrella walks behind him it is a man in a blue t-shirt who is taking a picture.", "hypothesis": "While a woman walks behind him it is a man that is taking a picture outdoors.", "label": 0}
+{"premise": "It is a black, which, women holding a sign, which says, free, which, hugs in the city.", "hypothesis": "It is a white woman who is holding a sign.", "label": 2}
+{"premise": "As the batsman walks away it is the baseball players near the pitching mound that are celebrating.", "hypothesis": "It is the batsman who is on a different team than the others around the pitching mound.", "label": 0}
+{"premise": "It is a man who is reading a book while sitting on a bench outside of a bookstore.", "hypothesis": "It is a man who is reading outside of a store on a bench.", "label": 0}
+{"premise": "It is the basketball player in Red that is challenging the player for the ball in White.", "hypothesis": "It is a basketball player in Red who is trying to grab the ball from a player in White.", "label": 0}
+{"premise": "Xmas time is being shopped around by people of for decorations.", "hypothesis": "Things are being bought by people.", "label": 0}
+{"premise": "It is people who are shopping around Xmas time for decorations.", "hypothesis": "It is people which are buying things.", "label": 0}
+{"premise": "It is four children who are playing in some water.", "hypothesis": "It is the children who are doing chores.", "label": 2}
+{"premise": "It is a female guitarist who is playing on stage.", "hypothesis": "It is a woman who is playing her instrument.", "label": 0}
+{"premise": "It is a person in blue who is the only person throwing their ball at a Bowling Alley currently.", "hypothesis": "It is a person who is Bowling.", "label": 0}
+{"premise": "It is these girls who are having a great time looking for seashells.", "hypothesis": "It is the girls who are taking a nap.", "label": 2}
+{"premise": "It is a blond woman in a white shirt that demonstrates her talents to a crowd.", "hypothesis": "It is a woman who performs for the crowd.", "label": 0}
+{"premise": "A man, kneeling, is bent by his ear to listen on another in front of a guitar and audio equipment.", "hypothesis": "Chess is played by two men together.", "label": 2}
+{"premise": "It is a boy who plays with a motorized car next to a dirty street lined with real cars.", "hypothesis": "It is a boy who played in the streets with his motorized car.", "label": 0}
+{"premise": "A bike wearing a white blouse with her brown hair blowing in the wind is driven by a woman.", "hypothesis": "A bike is being ridden by the lady.", "label": 0}
+{"premise": "It is a woman who drives a bike wearing a white blouse with her brown hair blowing in the wind.", "hypothesis": "It is the lady which is riding a bike.", "label": 0}
+{"premise": "It is a crowd which gathered around a man, young who is performing.", "hypothesis": "It is a girl who is performing.", "label": 2}
+{"premise": "A book while sitting on a bench is being read by a man outside of a bookstore.", "hypothesis": "Video games are being played by a man on his phone.", "label": 2}
+{"premise": "It is a man who is reading a book while sitting on a bench outside of a bookstore.", "hypothesis": "It is a man who is playing video games on his phone.", "label": 2}
+{"premise": "A tennis ball on a court is hit by a boy.", "hypothesis": "The ball is being hit by a girl.", "label": 2}
+{"premise": "It is a boy who hits a tennis ball on a court.", "hypothesis": "It is a girl who is hitting the ball.", "label": 2}
+{"premise": "Fruit in a market is sold by a man with red long hair, a brown shirt, and plaid pants.", "hypothesis": "Dvds pirated are being sold by the man.", "label": 2}
+{"premise": "It is a man with long red hair, a brown shirt, and plaid pants who sells fruit in a market.", "hypothesis": "It is the man which is selling dvds pirated.", "label": 2}
+{"premise": "It is children who bathe in water from large drums.", "hypothesis": "It is not the kids who are reading.", "label": 0}
+{"premise": "It is her that is cooking food while wearing a dress.", "hypothesis": "It is a woman in a dress that dances in the club.", "label": 2}
+{"premise": "It is construction workers who use cables to hang from the sides of buildings.", "hypothesis": "It is construction workers who are having fun smashing windows.", "label": 2}
+{"premise": "It is the guitarist who performs a rocking solo.", "hypothesis": "It is the musician who is performing.", "label": 0}
+{"premise": "It is four boys who are about to be hit by an approaching wave.", "hypothesis": "It is the wave which missed the boys.", "label": 2}
+{"premise": "It is a dog who hides in the tall grasses along a rocky shore.", "hypothesis": "It is the dog who is at home with his owner.", "label": 2}
+{"premise": "It is a U.S. soldier who helps a young girl in the hands of her father while other soldiers look on.", "hypothesis": "It is the girl who is by herself.", "label": 2}
+{"premise": "Some fruit is being grabbed by a little baby wearing a blue outfit.", "hypothesis": "Red is being worn by a little baby.", "label": 2}
+{"premise": "It is a little baby wearing a blue outfit that is grabbing some fruit.", "hypothesis": "It is a little baby who is wearing red.", "label": 2}
+{"premise": "It is teams black and yellow who are trying to get the basketball in the goal.", "hypothesis": "It is two teams who are playing a sport.", "label": 0}
+{"premise": "It is a dog that is running parallel with the ocean waves.", "hypothesis": "It is a dog who is on the beach.", "label": 0}
+{"premise": "Her hand is being held up by a woman with a vest and red shirt, above a black and white dog, which, is jumping.", "hypothesis": "A full sleeved jacket is being worn by the woman.", "label": 2}
+{"premise": "It is a woman with a vest and red shirt who is holding up her hand, above a black and white dog, which is jumping.", "hypothesis": "It is the woman which is wearing a full sleeved jacket.", "label": 2}
+{"premise": "It is a crowd of people who is looking at something outside of a Gap store.", "hypothesis": "It is people who are looking inside.", "label": 2}
+{"premise": "The ball is served by a tennis player in a pink outfit to her opponent.", "hypothesis": "His balls are offered by a naked man to the police officer.", "label": 2}
+{"premise": "It is a tennis player in a pink outfit which serves the ball to her opponent.", "hypothesis": "It is a naked man who offers his balls to the police officer.", "label": 2}
+{"premise": "A large wicker basket on her is carried by a woman in a pink and green bright skirt, back up a stone cobbled street.", "hypothesis": "A basket is being carried by the woman down the street.", "label": 0}
+{"premise": "It is a woman in a bright pink and green skirt which, carries a large wicker basket on her, back up a stone cobbled street.", "hypothesis": "It is the woman who is carrying a basket down the street.", "label": 0}
+{"premise": "It is a young family who enjoys feeling ocean waves lap at their feet.", "hypothesis": "It is a family that is at the beach.", "label": 0}
+{"premise": "It is a bald man who is getting out of a small blue car.", "hypothesis": "It is the bald man who got out of a red truck.", "label": 2}
+{"premise": "While telling an amusing story, with a beard, to his friend, it is a man which, puts up his hands.", "hypothesis": "It is two men which row a boat out to sea.", "label": 2}
+{"premise": "A red sled is being pulled by a dog across the snow.", "hypothesis": "A sled is being pulled by a dog.", "label": 0}
+{"premise": "It is a dog who is pulling a red sled across the snow.", "hypothesis": "It is a dog which is pulling a sled.", "label": 0}
+{"premise": "A nap on her bed above the sheets and covers is taken by a woman tired from her long day.", "hypothesis": "A horse on the beach is ridden by a woman.", "label": 2}
+{"premise": "It is a woman tired from her long day who takes a nap on her bed above the sheets and covers.", "hypothesis": "It is a woman who rides a horse on the beach.", "label": 2}
+{"premise": "An object is carried by a brown dog in its mouth on a snowy hillside.", "hypothesis": "Something is being carried by a dog.", "label": 0}
+{"premise": "It is a brown dog who carries an object in its mouth on a snowy hillside.", "hypothesis": "It is a dog who is carrying something.", "label": 0}
+{"premise": "It is three people who are posing on the side of a mountain.", "hypothesis": "It is the dogs who are posing at the mountain.", "label": 2}
+{"premise": "A ATV on a track is driven by a person dressed in protective gear black and red.", "hypothesis": "A boat is being driven by somebody.", "label": 2}
+{"premise": "It is a person, dressed in protective black and red gear, which, drives a ATV on a track.", "hypothesis": "It is someone which is driving a boat.", "label": 2}
+{"premise": "It is a man in red shows who is bowling with a red ball at a bowling lane with Tecate ads.", "hypothesis": "It is the man who is at watching home tv.", "label": 2}
+{"premise": "A bicycle is ridden by a man while a young girl holds onto the back of him.", "hypothesis": "A bike is ridden by a man.", "label": 0}
+{"premise": "It is a man who rides a bicycle while a young girl holds onto the back of him.", "hypothesis": "It is a man which rides a bike.", "label": 0}
+{"premise": "It is a young man who blew balloons, to craft into animals, up, for the excited seven children, which, looked on.", "hypothesis": "It is the children who watch the man make dogs and giraffes out of balloons.", "label": 0}
+{"premise": "Running to hit a ball with her tennis racket is clothed by a woman in tennis.", "hypothesis": "Tennis is played by Pete Sampras.", "label": 2}
+{"premise": "It is a woman in tennis who clothes running to hit a ball with her tennis racket.", "hypothesis": "It is Pete Sampras which plays tennis.", "label": 2}
+{"premise": "It is a young boy in green who practices juggling in a parking lot.", "hypothesis": "It is the young boy which is outside.", "label": 0}
+{"premise": "Food is being prepared by an elderly woman in the kitchen.", "hypothesis": "Food is made by a woman.", "label": 0}
+{"premise": "It is an elderly woman who is preparing food in the kitchen.", "hypothesis": "It is a woman who makes food.", "label": 0}
+{"premise": "Her drink is being opened by the blond girl as she speaks to the person with her.", "hypothesis": "Dinner is being eaten by a man at a restaurant.", "label": 2}
+{"premise": "As she speaks to the person with her it is the blond girl who is opening her drink.", "hypothesis": "It is a man who is eating dinner at a restaurant.", "label": 2}
+{"premise": "The street is filled by a crowd of people in front of a McDonald's.", "hypothesis": "Hockey is being played by the crowd.", "label": 2}
+{"premise": "It is a crowd of people that fills the street in front of a McDonald's.", "hypothesis": "It is the crowd which is playing hockey.", "label": 2}
+{"premise": "Steps are being swept by a man with black clothing with a broom.", "hypothesis": "The steps are being swept by the man.", "label": 0}
+{"premise": "It is a man with black clothing that is sweeping steps with a broom.", "hypothesis": "It is the man which is sweeping the steps.", "label": 0}
+{"premise": "It is a girl in a costume who is performing a dance as other girls in costumes watch.", "hypothesis": "It is a girl who is dancing.", "label": 0}
+{"premise": "A bike with a blue laundry hamper full of clothes is being ridden by old a man more on his handlebars.", "hypothesis": "A bike, that with a blue laundry hamper is full of clothes, is being ridden by an old man on his handlebars.", "label": 0}
+{"premise": "It is an older man who is riding a bike with a blue laundry hamper full of clothes on his handlebars.", "hypothesis": "It is an old man who is riding a bike, which with a blue laundry hamper is full of clothes, on his handlebars.", "label": 0}
+{"premise": "It is two men who help each other cut a sheet of plastic.", "hypothesis": "It is two friends who drink beer.", "label": 2}
+{"premise": "It is two men who are playing during a basketball game.", "hypothesis": "It is two men who are playing.", "label": 0}
+{"premise": "It is a dog that is running parallel with the ocean waves.", "hypothesis": "It is the pet who is eating.", "label": 2}
+{"premise": "Using a stick to balance everything on her shoulder, large clear bags of groceries are carried by a Vietnamese woman wearing a gray top.", "hypothesis": "Anything is being carried by no one.", "label": 2}
+{"premise": "Using a stick to balance everything on her shoulder, it is a Vietnamese woman, wearing a gray top, which carries clear large bags of groceries.", "hypothesis": "It is no one which is carrying anything.", "label": 2}
+{"premise": "It is a Obama Biden supporter who cheers for the presidential candidate and his running mate.", "hypothesis": "It is somebody which is cheering for a presidential candidate.", "label": 0}
+{"premise": "It is a young boy who plays on a pile of rocks.", "hypothesis": "It is a boy who is playing on rocks.", "label": 0}
+{"premise": "A tree with green healthy leaves is climbed by a young boy wearing Croc red sandals.", "hypothesis": "A tree is climbed by a barefoot boy.", "label": 2}
+{"premise": "It is a young boy wearing red Croc sandals which, climbs a tree with healthy green leaves.", "hypothesis": "It is a barefoot boy that climbs a tree.", "label": 2}
+{"premise": "Two big dogs playing rough in a field are watched by a small dog.", "hypothesis": "Outsides are being played by a few dogs.", "label": 0}
+{"premise": "It is a small dog who watches two big dogs playing rough in a field.", "hypothesis": "It is a few dogs who are playing outsides.", "label": 0}
+{"premise": "Photographs are being taken by a woman with a blue hat in an area covered in brush.", "hypothesis": "A camera is being held by the woman.", "label": 0}
+{"premise": "It is a woman with a blue hat which, is taking photographs, in an area covered in brush.", "hypothesis": "It is the woman which is holding a camera.", "label": 0}
+{"premise": "It is two men with matching t-shirts that fold a towel in the living room.", "hypothesis": "It is two men who are in the room living.", "label": 0}
+{"premise": "It is an older woman with short Red hair that is preparing food in a kitchen.", "hypothesis": "It is an old woman who is in the kitchen.", "label": 0}
+{"premise": "Fruits and vegetables are bought by people at an open air market.", "hypothesis": "Produce is bought by people at a market.", "label": 0}
+{"premise": "It is people who buy fruits and vegetables at an open air market.", "hypothesis": "It is people which buy produce at a market.", "label": 0}
+{"premise": "It is the man in the white shirt that holds a playing card up.", "hypothesis": "It is the man who has a playing card in his hand.", "label": 0}
+{"premise": "It is two young boys who are playing in a fountain in a city plaza.", "hypothesis": "It is kids who are splashing around in a fountain.", "label": 0}
+{"premise": "Something out of a balloon is made by man with black, shirt, and sunglasses.", "hypothesis": "Celery is cut by a woman.", "label": 2}
+{"premise": "It is man with black, shirt, and sunglasses that makes something out of a balloon.", "hypothesis": "It is a woman which cuts celery.", "label": 2}
+{"premise": "A song on a medium sized stage is played by a four piece band.", "hypothesis": "Music is being played by a band on a stage.", "label": 0}
+{"premise": "It is a four piece band who plays a song on a medium sized stage.", "hypothesis": "It is a band who is playing music on a stage.", "label": 0}
+{"premise": "It is a man in a hat that is driving a horse driven cart down a cobble stone street.", "hypothesis": "It is a man that is outside.", "label": 0}
+{"premise": "It is a girl in a knit white hat and winter gear who rubs her tongue over her braces.", "hypothesis": "It is the girl who is ready to go swimming.", "label": 2}
+{"premise": "It is a man dressed only in a towel that is in a sauna.", "hypothesis": "It is a man dressed in a coat that is in a kitchen.", "label": 2}
+{"premise": "It is four boys who are about to be hit by an approaching wave.", "hypothesis": "It is a giant wave who is about to crash on some boys.", "label": 0}
+{"premise": "It is a crowd of people in winter garb which, gathers in the street against a backdrop of bare trees and snow.", "hypothesis": "It is Sasquatch who is riding a bike on the street.", "label": 2}
+{"premise": "Model airplanes in an open field are tested by a man.", "hypothesis": "Model airplanes are being tested by a man.", "label": 0}
+{"premise": "It is a man which tests model airplanes in an open field.", "hypothesis": "It is a man that is testing model airplanes.", "label": 0}
+{"premise": "It is a woman that poses for a picture with a child.", "hypothesis": "It is a child which poses for the camera with their mother.", "label": 0}
+{"premise": "It is men in hard hats which work along a wall.", "hypothesis": "It is guys who are working near a wall.", "label": 0}
+{"premise": "It is three women who are dancing among the bamboo.", "hypothesis": "It is a group of women who dances.", "label": 0}
+{"premise": "Cooking near a long table with a white tablecloth, it is four women and two men which are in a kitchen.", "hypothesis": "It is no one which is cooking.", "label": 2}
+{"premise": "While he is building a deck the camera is looked at by old a gentleman more.", "hypothesis": "The camera while building something is looked at by a human.", "label": 0}
+{"premise": "While he is building a deck it is an older gentleman that looks at the camera.", "hypothesis": "It while building something is a human who looks at the camera.", "label": 0}
+{"premise": "It is a man who is ducking down between the red tulips in a flower field.", "hypothesis": "It is the man which is inside.", "label": 2}
+{"premise": "It is a group of travelers pulling suitcases who is making their way down a platform.", "hypothesis": "It is two couples who are drinking a lemonade.", "label": 2}
+{"premise": "It is a family that is taking part in a walk a-Thon.", "hypothesis": "It is everybody here who is playing some video games.", "label": 2}
+{"premise": "A stick is thrown by a man in a grassy field for a group of three brown dogs.", "hypothesis": "Pie is dogged by the mens eats.", "label": 2}
+{"premise": "It is a man in a grassy field who throws a stick for a group of three brown dogs.", "hypothesis": "It is the mens eats which dog pie.", "label": 2}
+{"premise": "It is the man who is sweeping with a red broom.", "hypothesis": "It is the man which is dancing with a woman.", "label": 2}
+{"premise": "It is a passenger wearing a life jacket who prepares to take a picture of a whale very close to the boat.", "hypothesis": "It is a man who is using a camera.", "label": 0}
+{"premise": "It is an adventurous man who navigates with a long stick through the jungle.", "hypothesis": "It is a man who takes his daughter out for ice cream.", "label": 2}
+{"premise": "It is this which is when Daddy did teach her how to ride her scooter.", "hypothesis": "It is Daddy who taught her.", "label": 0}
+{"premise": "As the snow continues to fall the snow in the city is shovelled by a person.", "hypothesis": "The snow is being worked by the man in.", "label": 0}
+{"premise": "As the snow continues to fall it is a person which shovels the snow in the city.", "hypothesis": "It is the man which is working in the snow.", "label": 0}
+{"premise": "It is a girl wearing pink pulls which weeds.", "hypothesis": "It is her which is indoors.", "label": 2}
+{"premise": "It is a man in an orange jacket which, reaches under a blue car, busted up by, on wooden supports.", "hypothesis": "It is a man who reaches into a boat.", "label": 2}
+{"premise": "It is a soccer player with black and red striped uniform who gets ready to kick the soccer ball.", "hypothesis": "It is a soccer player who gets ready to kick the ball.", "label": 0}
+{"premise": "While she opens a red package, in front of a table with yarn and glass of liquid on it it is a woman which smiles.", "hypothesis": "It is the woman who is about to open the package.", "label": 0}
+{"premise": "It is a blond woman in a white shirt that demonstrates her talents to a crowd.", "hypothesis": "It is the woman who is a street performer.", "label": 0}
+{"premise": "The sidewalk is downed by a man and his son riding bikes.", "hypothesis": "Bikes were being ridden by a man and a boy on the sidewalk through town.", "label": 0}
+{"premise": "It is a man and his son riding bikes which down the sidewalk.", "hypothesis": "It is a man and a boy who were riding bikes on the sidewalk through town.", "label": 0}
+{"premise": "It is a crowd of people at a county fair who watches three men agitate a large bull.", "hypothesis": "As people watch it is three men which bother a bull.", "label": 0}
+{"premise": "It is a young boy who gets his photograph taken with Mr. and Mrs. Clause.", "hypothesis": "It is a young girl that gets his photograph taken with Mr. and Mrs. Clause.", "label": 2}
+{"premise": "It is two uniformed women, wearing jackets saying Politie, on the back, which, are looking at each other in front of a crowd.", "hypothesis": "It is the crowd who is composed of one person.", "label": 2}
+{"premise": "It is a young woman who is ordering from a red food truck.", "hypothesis": "It is a young lady who is ordering from a food truck.", "label": 0}
+{"premise": "A large horse is ridden by a young boy in a cowboy hat.", "hypothesis": "A horse is ridden by a boy.", "label": 0}
+{"premise": "It is a young boy in a cowboy hat which rides a large horse.", "hypothesis": "It is a boy which rides a horse.", "label": 0}
+{"premise": "It is four entertainers, dressed in garb, that, is Roman style, which, are performing at an outdoor theater.", "hypothesis": "It is actors who are on Broadway.", "label": 2}
+{"premise": "A serving tray is carried by a woman wearing white and black.", "hypothesis": "A serving tray is being carried by a woman.", "label": 0}
+{"premise": "It is a woman wearing white and black who carries a serving tray.", "hypothesis": "It is a woman who is carrying a serving tray.", "label": 0}
+{"premise": "The ball is served by a tennis player in a pink outfit to her opponent.", "hypothesis": "A ball is hit by the woman.", "label": 0}
+{"premise": "It is a tennis player in a pink outfit which serves the ball to her opponent.", "hypothesis": "It is the woman which hits a ball.", "label": 0}
+{"premise": "Some off-camera activity is being captured by a female camera operator.", "hypothesis": "A picture is being taken by a lady.", "label": 0}
+{"premise": "It is a female camera operator who is capturing some off-camera activity.", "hypothesis": "It is a lady who is taking a picture.", "label": 0}
+{"premise": "A game of running around a pole is played by little kids.", "hypothesis": "A game that requires them to run around a pole is played by a bunch of young kids.", "label": 0}
+{"premise": "It is little kids who play a game of running around a pole.", "hypothesis": "It is a bunch of young kids which, plays a game who requires them to run around a pole.", "label": 0}
+{"premise": "It is a group of young men in a gym who takes turns scoring in basketball.", "hypothesis": "It is guys which are indoors.", "label": 0}
+{"premise": "Bags full of flowers are attached by a young woman dressed in black to a bicycle.", "hypothesis": "Dark clothing is being worn by the woman.", "label": 0}
+{"premise": "It is a young woman dressed in black that attaches bags full of flowers to a bicycle.", "hypothesis": "It is the woman which is wearing dark clothing.", "label": 0}
+{"premise": "It is three performers who are on the stage floor in black lace costumes.", "hypothesis": "It is three performers who wear lace costumes.", "label": 0}
+{"premise": "While sitting on a tile floor it is four adults which eat.", "hypothesis": "It is a group of people which eats food.", "label": 0}
+{"premise": "It is a young woman who is wearing a paperred crown at an outdoor event.", "hypothesis": "It is the woman that is at a ski lodge.", "label": 2}
+{"premise": "It is a farmer who tends chores to his.", "hypothesis": "It is a farmer who works on their farm.", "label": 0}
+{"premise": "It is children who are petting small turtles in the grass.", "hypothesis": "It is the children who are playing with turtles.", "label": 0}
+{"premise": "It is a woman who plays with a Brown furry dog in the wind.", "hypothesis": "It is a woman who is playing with her dog.", "label": 0}
+{"premise": "A card game is being played by some youngsters.", "hypothesis": "Cards are played by people.", "label": 0}
+{"premise": "It is some youngsters who are playing a card game.", "hypothesis": "It is people which play cards.", "label": 0}
+{"premise": "A task is being done by a man on a farm by a body of water.", "hypothesis": "Something by the water is being done by the man.", "label": 0}
+{"premise": "It is a man who is doing a task on a farm by a body of water.", "hypothesis": "It is the man who is doing something by the water.", "label": 0}
+{"premise": "A new exhibit is installed by artists in a gallery.", "hypothesis": "The tv is being watched by artists.", "label": 2}
+{"premise": "It is artists who install a new exhibit in a gallery.", "hypothesis": "It is artists who are watching the tv.", "label": 2}
+{"premise": "A carriage pulled by four horses is being ridden by three people.", "hypothesis": "A carriage ride is being taken by the people.", "label": 0}
+{"premise": "It is three people who are riding a carriage pulled by four horses.", "hypothesis": "It is the people which are taking a carriage ride.", "label": 0}
+{"premise": "It is a group of four children which, smiling and making, faces is posed by, on a muddy beach.", "hypothesis": "The stew is stirred by a man.", "label": 2}
+{"premise": "It is a group of four children who poses as smiling and making, faces, on a muddy beach.", "hypothesis": "It is a man which stirs the stew.", "label": 2}
+{"premise": "It is someone in green pants that is on a white snowboard in the air.", "hypothesis": "It is the person which is resting.", "label": 2}
+{"premise": "His sled is dragged by a boy through the snow.", "hypothesis": "A sled is dragged by a boy.", "label": 0}
+{"premise": "It is a boy who drags his sled through the snow.", "hypothesis": "It is a boy which drags a sled.", "label": 0}
+{"premise": "It is a rescue worker that searches with a flashlight, in a ruined building, under a slab.", "hypothesis": "It is a survivor who searches for a meal.", "label": 2}
+{"premise": "A small scissors is being used by a woman on a large net.", "hypothesis": "Tape is being used by a woman on a large net.", "label": 2}
+{"premise": "It is a woman who is using a small scissors on a large net.", "hypothesis": "It is a woman that is using tape on a large net.", "label": 2}
+{"premise": "Reading a book be manned by sitting on a bench.", "hypothesis": "A book while seated on a bench is read by a male.", "label": 0}
+{"premise": "It is a woman who is posing next to an old truck in a meadow.", "hypothesis": "It is a woman that is posing near a motorcycle in the forest.", "label": 2}
+{"premise": "A canoe is paddled by two people silhouetted on the ocean during sunset.", "hypothesis": "Their boat is paddled by two people on the ocean.", "label": 0}
+{"premise": "It is two people, silhouetted, which, paddle a canoe, during sunset, on the ocean.", "hypothesis": "It is two people who paddle their boat on the ocean.", "label": 0}
+{"premise": "A trick is being performed by the man on a motorcycle high in the air.", "hypothesis": "A speech is being performed by a woman for her workers.", "label": 2}
+{"premise": "It is the man which is performing a trick on a motorcycle high in the air.", "hypothesis": "It is a woman that is performing a speech for her workers.", "label": 2}
+{"premise": "The sidewalk is downed by a man and his son riding bikes.", "hypothesis": "A parade was being watched by the man and his son.", "label": 2}
+{"premise": "It is a man and his son riding bikes which down the sidewalk.", "hypothesis": "It is the man and his son who were watching a parade.", "label": 2}
+{"premise": "It is the little boy which gets ready to kick the soccer ball.", "hypothesis": "It is the boy which gets ready.", "label": 0}
+{"premise": "Drinking of beer is outfitted by a group of people in black.", "hypothesis": "Chunks of meat are eaten by people.", "label": 2}
+{"premise": "It is a group of people in black which outfits drinking of beer.", "hypothesis": "It is people which eat chunks of meat.", "label": 2}
+{"premise": "It is a blond woman in a white shirt that demonstrates her talents to a crowd.", "hypothesis": "It is a dark haired kid who dances for the crowd.", "label": 2}
+{"premise": "It is four entertainers, dressed in garb, which, is Roman style, which, are performing at an outdoor theater.", "hypothesis": "It is people which are outdoors.", "label": 0}
+{"premise": "It is two girls that two boys are passed by, by a tree, in a neon lighted street.", "hypothesis": "Other kids are passed by some kids on a street.", "label": 0}
+{"premise": "It is two girls that two boys are passed by, by a tree, in a neon lighted street.", "hypothesis": "It is some kids who pass other kids on a street.", "label": 0}
+{"premise": "A white horse is being ridden by a woman with a blond ponytail and a white hat inside a fence with a horn cow.", "hypothesis": "A horse is being ridden by the woman.", "label": 0}
+{"premise": "It is a woman with a blond ponytail and a white hat that is riding a white horse inside a fence with a horn cow.", "hypothesis": "It is the woman which is riding a horse.", "label": 0}
+{"premise": "It is a man that is celebrating his victory while smiling and shooting champagne in the air with his teammate.", "hypothesis": "It is a man that is celebrating his victory while smiling and shooting champagne, in the air, happily.", "label": 0}
+{"premise": "It is a little girl who has her arms around a little boy standing on a wooden bridge in the woods.", "hypothesis": "It is the children who hug in the woods.", "label": 0}
+{"premise": "It is a group of children in costumes who is on a stage with red curtains.", "hypothesis": "It is a group of children who is on stage.", "label": 0}
+{"premise": "It is a boy who works on a project in shop class.", "hypothesis": "It is the boy who peeks at people working on their shop class project through a doorway.", "label": 2}
+{"premise": "It is two little boys wearing athletic jerseys that are washing their hands in a public restroom.", "hypothesis": "It is the boys who are bare chested.", "label": 2}
+{"premise": "It is a group of four children who pokes at two small turtles in the grass.", "hypothesis": "It is a group of kids who poked at the small two turtles.", "label": 0}
+{"premise": "It is the gentlemen with the red plaid shirt and black pants who was speaking to a young lady holding a blue folder.", "hypothesis": "It is the gentleman who is speaking to a young lady.", "label": 0}
+{"premise": "Fruits and vegetables are bought by people at an open air market.", "hypothesis": "Many things at the market are being shopped for by people.", "label": 0}
+{"premise": "It is people who buy fruits and vegetables at an open air market.", "hypothesis": "It is people who are shopping for many things at the market.", "label": 0}
+{"premise": "It is man who is shaving in the mirror.", "hypothesis": "It is the man which has no facial hair.", "label": 2}
+{"premise": "A golden colorred ax is being held by a woman in a type coat hooded.", "hypothesis": "An axe is held by a woman.", "label": 0}
+{"premise": "It is a woman in a type coat hooded that is holding a golden colorred ax.", "hypothesis": "It is a woman who holds an ax.", "label": 0}
+{"premise": "It is a child in an orange outfit who stands to be holding flowers.", "hypothesis": "It is a kid who is wearing colorful clothing.", "label": 0}
+{"premise": "It is a group of three people and one dog that hikes up a green mountainside.", "hypothesis": "It is people who are having a picnic.", "label": 2}
+{"premise": "It is some elderly people who are playing instruments in a park.", "hypothesis": "It is a group of old people who is outdoors playing music.", "label": 0}
+{"premise": "It is children who are playing with a toy in the street.", "hypothesis": "It is the children who are inside.", "label": 2}
+{"premise": "A woman walking amidst many concrete boxes is watched by a boy.", "hypothesis": "A woman is being watched by a boy.", "label": 0}
+{"premise": "It is a boy who watches a woman walking amidst many concrete boxes.", "hypothesis": "It is a boy who is watching a woman.", "label": 0}
+{"premise": "It is the football player which prepares to kick the ball.", "hypothesis": "It is a person who is playing a sport.", "label": 0}
+{"premise": "It is a man who is ducking down between the red tulips in a flower field.", "hypothesis": "It is the man which is outside.", "label": 0}
+{"premise": "It is a runner who poses for a picture with friends in a parking lot.", "hypothesis": "It is the runner who is posing for a picture.", "label": 0}
+{"premise": "It is three men who drink at a reflective bar.", "hypothesis": "It is three men who are watching a football game at one of their houses.", "label": 2}
+{"premise": "Their bikes are being ridden by people down a road.", "hypothesis": "A bike is being ridden by no one.", "label": 2}
+{"premise": "It is people who are riding their bikes down a road.", "hypothesis": "It is no one which is riding a bike.", "label": 2}
+{"premise": "It is a man in a gray shirt and green tie who is working with his computer at his office desk.", "hypothesis": "It is a man in a gray shirt that is outdoors.", "label": 2}
+{"premise": "Air is being blown by an elderly male into an object.", "hypothesis": "Blowing air was given up by the elderly man into the object.", "label": 2}
+{"premise": "It is an elderly male who is blowing air into an object.", "hypothesis": "It is the elderly man who gave up blowing air into the object.", "label": 2}
+{"premise": "A stuffed animal is being held by a young smiling girl in one hand and a candy apple in the other.", "hypothesis": "A stuffed bell pepper is being held by a young smiling girl in one hand.", "label": 2}
+{"premise": "It is a young smiling girl that is holding a stuffed animal in one hand and a candy apple in the other.", "hypothesis": "It is a young smiling girl who is holding a stuffed bell pepper in one hand.", "label": 2}
+{"premise": "An instrument for the audience is played by a performer.", "hypothesis": "A performer for an audience is played by the instrument.", "label": 2}
+{"premise": "It is a performer who plays an instrument for the audience.", "hypothesis": "It is the instrument who plays a performer for an audience.", "label": 2}
+{"premise": "Food is being cooked by her while wearing a dress.", "hypothesis": "Food is cooked by a woman in a dress.", "label": 0}
+{"premise": "It is her that is cooking food while wearing a dress.", "hypothesis": "It is a woman in a dress who cooks food.", "label": 0}
+{"premise": "It is two adults who hold either side of a boat at the edge of the water.", "hypothesis": "It is two people who are near water.", "label": 0}
+{"premise": "It is a man that is renovating a room.", "hypothesis": "It is a man who is in a room.", "label": 0}
+{"premise": "It is a man who smiles while he shaves the head of another man.", "hypothesis": "It is a guy who is cutting another man's hair.", "label": 0}
+{"premise": "While three other guys stand around it is a man that is giving a haircut to another man.", "hypothesis": "It is a guy who is getting his hair trimmed.", "label": 0}
+{"premise": "It is a lady wearing gloves and a ponytail who cooks something while, people stand, and watch.", "hypothesis": "It is a lady who cooks.", "label": 0}
+{"premise": "It is the boys who are playing with Legos.", "hypothesis": "It is boys who are playing.", "label": 0}
+{"premise": "It is a female guitarist who is playing on stage.", "hypothesis": "It is the woman which is playing the piano on the stage.", "label": 2}
+{"premise": "Papers are handed by the woman in the black shirt to the children surrounding her.", "hypothesis": "The paper is being kept by Woman to herself.", "label": 2}
+{"premise": "It is the woman in the black shirt who hands papers to the children surrounding her.", "hypothesis": "It is Woman who is keeping the paper to herself.", "label": 2}
+{"premise": "It is a group of people who is buying fruits and vegetables from a stand located in a street market.", "hypothesis": "It is the stand selling produce who is in a street market.", "label": 0}
+{"premise": "A picture of another two men in a crowd is taken by a man.", "hypothesis": "A picture of two men in a crowd is taken by a man.", "label": 0}
+{"premise": "It is a man who takes a picture of another two men in a crowd.", "hypothesis": "It is a man who takes a picture of two men in a crowd.", "label": 0}
+{"premise": "Soccer is being played by four dark skinned boys.", "hypothesis": "A sandwich is being eaten by the boy on the moon.", "label": 2}
+{"premise": "It is four dark skinned boys who are playing soccer.", "hypothesis": "It is the boy which is eating a sandwich on the moon.", "label": 2}
+{"premise": "Copies of books are signed by a man in a colorful shirt and a lady in a white blouse for people.", "hypothesis": "Copies of books are signed by two people.", "label": 0}
+{"premise": "It is a man in a colorful shirt and a lady in a white blouse who sign copies of books for people.", "hypothesis": "It is two people who sign copies of books.", "label": 0}
+{"premise": "It is a man who is holding a microphone in front of his mouth.", "hypothesis": "It is a male who has a device near his mouth.", "label": 0}
+{"premise": "It is a road crew who is working on a road with equipment around them.", "hypothesis": "It is a crew who is working.", "label": 0}
+{"premise": "It is a child in an orange outfit who stands to be holding flowers.", "hypothesis": "It is the kid which is taking a nap.", "label": 2}
+{"premise": "It is a person strolling through an orange that tinted woods with a dog.", "hypothesis": "It is the person which is outside.", "label": 0}
+{"premise": "It is old a man wearing stars and stripes more who rides a bike.", "hypothesis": "It is the man which is dancing under the stars.", "label": 2}
+{"premise": "It is a tan dog who plays with a white dog in a baby pool.", "hypothesis": "It is a couple of animals who are playing.", "label": 0}
+{"premise": "It is a group of firemen and officials who prepares to turn a car rights side after a crash.", "hypothesis": "It is some firemen who are putting out a fire.", "label": 2}
+{"premise": "It is a brown and white dog that holds a tennis ball in his mouth.", "hypothesis": "It is a dog who is eating from a bright silver bowl.", "label": 2}
+{"premise": "It is a man with a cap and not wearing shirt who is laying a wooden bench.", "hypothesis": "It is a man who relaxes on a bench.", "label": 0}
+{"premise": "It is a girl who is about to hit a tennis ball coming from above her with a racket.", "hypothesis": "It is a girl who is playing tennis.", "label": 0}
+{"premise": "The ball is thrown by a softball player to her teammate.", "hypothesis": "Softball is being played by two people.", "label": 0}
+{"premise": "It is a softball player who throws the ball to her teammate.", "hypothesis": "It is two people who are playing softball.", "label": 0}
+{"premise": "A huge bubble is being blown by a girl.", "hypothesis": "Air is being expelled by a girl.", "label": 0}
+{"premise": "It is a girl which is blowing a huge bubble.", "hypothesis": "It is a girl who is expelling air.", "label": 0}
+{"premise": "It is a man wearing a hat and boots who is digging for something in the snow.", "hypothesis": "It is a man that is digging the snow outside.", "label": 0}
+{"premise": "It is three young women who perform a dance in a crowded hall.", "hypothesis": "It is three young women who are performing in front of a big audience.", "label": 0}
+{"premise": "A telescope is being looked through by a boy scout with a red cap.", "hypothesis": "A campfire is being made by a boy scout.", "label": 2}
+{"premise": "It is a boy scout with a red cap who is looking through a telescope.", "hypothesis": "It is a boy scout who is making a campfire.", "label": 2}
+{"premise": "It is a soccer player with black and red striped uniform who gets ready to kick the soccer ball.", "hypothesis": "It is a football player who gets ready to throw the ball.", "label": 2}
+{"premise": "It is two construction workers who are working in front of a wall, who, has a bunch of names carved into it.", "hypothesis": "It is the men which are playing wind instruments.", "label": 2}
+{"premise": "It is a young girl who poses with a trophy in the park.", "hypothesis": "It is a girl who is at the park.", "label": 0}
+{"premise": "While dressed in American colors, it is a lawn mover who is riding a father and his daughter, down a street.", "hypothesis": "It is two people who ride a lawn mower outside.", "label": 0}
+{"premise": "A cart on which large display boards are kept is being pushed by a man wearing a cap on a road.", "hypothesis": "A lottery ticket is being bought by a man.", "label": 2}
+{"premise": "It is a man wearing a cap which, is pushing a cart on which large display boards are kept, on a road.", "hypothesis": "It is a man that is buying a lottery ticket.", "label": 2}
+{"premise": "A stuffed animal is being held by a young smiling girl in one hand and a candy apple in the other.", "hypothesis": "A stuffed animal is being held by a young smiling girl in one hand.", "label": 0}
+{"premise": "It is a young smiling girl that is holding a stuffed animal in one hand and a candy apple in the other.", "hypothesis": "It is a young smiling girl that is holding a stuffed animal in one hand.", "label": 0}
+{"premise": "It is the young man which is trying to balance on the train tracks.", "hypothesis": "It is a young man who is trying to balance.", "label": 0}
+{"premise": "It is a brown dog who plays in a deep pile of snow.", "hypothesis": "It is a brown dog who plays in snow.", "label": 0}
+{"premise": "It is a man who is throwing something into the road.", "hypothesis": "It is a man who is near the road.", "label": 0}
+{"premise": "Basketball is being played by the man in White against the man in blue.", "hypothesis": "Hockey is played by a woman wearing red.", "label": 2}
+{"premise": "It is the man in White that is playing basketball against the man in blue.", "hypothesis": "It is a woman wearing red who plays hockey.", "label": 2}
+{"premise": "A stuffed animal is being held by a young smiling girl in one hand and a candy apple in the other.", "hypothesis": "A cute stuffed animal is being held by a young smiling girl in one hand.", "label": 0}
+{"premise": "It is a young smiling girl that is holding a stuffed animal in one hand and a candy apple in the other.", "hypothesis": "It is a young smiling girl that is holding a cute stuffed animal in one hand.", "label": 0}
+{"premise": "It is children who play in the sand surrounded by a Sand structure with a lot of window like openings.", "hypothesis": "It is the children who are playing in the sand.", "label": 0}
+{"premise": "It is a brown dog who is in the middle of a line of dogs chasing a dirty tennis ball over dirt.", "hypothesis": "It is the tennis ball who is clean.", "label": 2}
+{"premise": "A woman walking amidst many concrete boxes is watched by a boy.", "hypothesis": "The men are being checked by a woman out.", "label": 2}
+{"premise": "It is a boy who watches a woman walking amidst many concrete boxes.", "hypothesis": "It is a woman that is checking the men out.", "label": 2}
+{"premise": "A shopping cart containing a smiling boy is pushed by an enthusiastic boy.", "hypothesis": "A shopping cart is being pushed by a boy.", "label": 0}
+{"premise": "It is an enthusiastic boy who pushes a shopping cart containing a smiling boy.", "hypothesis": "It is a boy who is pushing a shopping cart.", "label": 0}
+{"premise": "A beer bottle is being held by a girl with short hair and a white shirt.", "hypothesis": "A beer bottle is being held by a girl with short hair and a blue shirt.", "label": 2}
+{"premise": "It is a girl with short hair and a white shirt who is holding a beer bottle.", "hypothesis": "It is a girl with short hair and a blue shirt who is holding a beer bottle.", "label": 2}
+{"premise": "A bike wearing a white blouse with her brown hair blowing in the wind is driven by a woman.", "hypothesis": "A huge truck is being driven by the lady.", "label": 2}
+{"premise": "It is a woman who drives a bike wearing a white blouse with her brown hair blowing in the wind.", "hypothesis": "It is the lady which is driving a huge truck.", "label": 2}
+{"premise": "It is a young boy in green shorts that balances on a pipe above a river.", "hypothesis": "It is no one which is balancing.", "label": 2}
+{"premise": "It is a man in a black shirt that is looking at a bike in a workshop.", "hypothesis": "It is a man who is in a black shirt.", "label": 0}
+{"premise": "It is a man who reads the paper in a bar with green lighting.", "hypothesis": "It is the man which is inside.", "label": 0}
+{"premise": "It is a crowd of people who is looking at something outside of a Gap store.", "hypothesis": "It is people who are looking outside.", "label": 0}
+{"premise": "It is a group of kids who is splashing in deep water, nearby a rock formation.", "hypothesis": "It is the kids who are singing in a choir.", "label": 2}
+{"premise": "An object is carried by a brown dog in its mouth on a snowy hillside.", "hypothesis": "An object is being carried by a dog down a grassy side.", "label": 2}
+{"premise": "It is a brown dog who carries an object in its mouth on a snowy hillside.", "hypothesis": "It is a dog who is carrying an object down a grassy side.", "label": 2}
+{"premise": "It is a chef in a kitchen who cuts a piece off of a large slab of rotating meat on a stick, probably lamb.", "hypothesis": "It is a human being who is in a kitchen with meat in front of him.", "label": 0}
+{"premise": "Wearing a red jacket another man is being kicked by one man wearing a blue jacket.", "hypothesis": "Makeup is put by a woman on.", "label": 2}
+{"premise": "It is one man wearing a blue jacket who is kicking another man wearing a red jacket.", "hypothesis": "It is a woman that puts on makeup.", "label": 2}
+{"premise": "It is a woman who is posing next to an old truck in a meadow.", "hypothesis": "It is a woman who is getting her picture taken near a truck.", "label": 0}
+{"premise": "It is a woman in black that is getting ready in her bathroom.", "hypothesis": "It is the woman which is in the bathroom.", "label": 0}
+{"premise": "Something on a table is being looked at by kids.", "hypothesis": "The table is being burned down by some kids.", "label": 2}
+{"premise": "It is kids who are looking at something on a table.", "hypothesis": "It is some kids who are burning down the table.", "label": 2}
+{"premise": "It is a man wearing protective gear that grinds down a large metals object.", "hypothesis": "It is not the man who does have any gear on.", "label": 2}
+{"premise": "It is the female soccer team who is getting lastly minute instruction from their coach.", "hypothesis": "It is the female basketball team who ignored their coach.", "label": 2}
+{"premise": "It is a woman in black that is getting ready in her bathroom.", "hypothesis": "It is the woman which is getting ready.", "label": 0}
+{"premise": "It is several men helping each other who pull in a fishing net.", "hypothesis": "It is the men which are fishing.", "label": 0}
+{"premise": "A bike is examined by a man during a yard sale.", "hypothesis": "A bike is examined by a woman.", "label": 2}
+{"premise": "It is a man who examines a bike during a yard sale.", "hypothesis": "It is a woman who examines a bike.", "label": 2}
+{"premise": "What looks to be a fax machine is being used by a man.", "hypothesis": "What looks to be a fax machine is being used by a woman.", "label": 2}
+{"premise": "It is a man who is using what looks to be a fax machine.", "hypothesis": "It is a woman who is using what looks to be a fax machine.", "label": 2}
+{"premise": "It is a young woman who is ordering from a red food truck.", "hypothesis": "It is a young lady who is ordering food.", "label": 0}
+{"premise": "It is a group of people which, stares at a wall which is filled with drawings in a building.", "hypothesis": "It is a group of people who is at a rave.", "label": 2}
+{"premise": "It is four men and a young boy who are at a table who setup for wood crafts.", "hypothesis": "It is four men and a young boy that are at the lake swimming.", "label": 2}
+{"premise": "It is people who are hiking up a mountain with no greenery.", "hypothesis": "It is the mountain which is bare.", "label": 0}
+{"premise": "It is a woman holding a can of bud light, with her shirt, standing in front of a wall, which, tied into a semi-halter.", "hypothesis": "It is something alcoholic who is visible.", "label": 0}
+{"premise": "It is four children who are dancing around a pole in a city street.", "hypothesis": "It is four children who are dancing around a pole.", "label": 0}
+{"premise": "A bike is being ridden by a man along a dirt trail.", "hypothesis": "A horse is being ridden by the man.", "label": 2}
+{"premise": "It is a man who is riding a bike along a dirt trail.", "hypothesis": "It is the man which is riding a horse.", "label": 2}
+{"premise": "It is a small child who is riding a red wagon in.", "hypothesis": "It is a kid who is in a wagon.", "label": 0}
+{"premise": "It is a man with a beer in his hand who listens to a womens talk.", "hypothesis": "It is a man who has a beer with him.", "label": 0}
+{"premise": "It is the boys who are playing with Legos.", "hypothesis": "It is boys who are playing chess.", "label": 2}
+{"premise": "His sister's request for water on the road is resisted by the young boy in a red shirt and jeans.", "hypothesis": "Water isn't shared by kids.", "label": 0}
+{"premise": "It is the young boy in a red shirt and jeans who resists his sister's request for water on the road.", "hypothesis": "It is not kids which do share water.", "label": 0}
+{"premise": "It is the Indian's who is performing a sacred dance.", "hypothesis": "It is the people which are dancing.", "label": 0}
+{"premise": "The street is being crossed by a man with a tan jacket with a full grocery bag.", "hypothesis": "A jacket is being worn by the man.", "label": 0}
+{"premise": "It is a man with a tan jacket with a full grocery bag that is crossing the street.", "hypothesis": "It is the man which is wearing a jacket.", "label": 0}
+{"premise": "It is men which work on a city street.", "hypothesis": "It is the men which are working.", "label": 0}
+{"premise": "It is a father that is teaching his son how to ride a bicycle.", "hypothesis": "It is a boy who is learning how to ride his bike.", "label": 0}
+{"premise": "It is a womens\ufffd\ufffd\ufffd volleyball team who plays in a gymnasium brown and green.", "hypothesis": "It is a volleyball team who is at a celebrating beach.", "label": 2}
+{"premise": "Pictures of some un-identified thing are being taken by Asian individuals.", "hypothesis": "Pictures are taken by Asians.", "label": 0}
+{"premise": "It is Asian individuals who are taking pictures of some thing un-identified.", "hypothesis": "It is Asians who take pictures.", "label": 0}
+{"premise": "Basketball is played by a boy.", "hypothesis": "Football is being played by a boy.", "label": 2}
+{"premise": "It is a boy who plays basketball.", "hypothesis": "It is a boy who is playing football.", "label": 2}
+{"premise": "It is various men in wetsuits and goggles who are standing.", "hypothesis": "It is men which are in wetsuits.", "label": 0}
+{"premise": "As she walks to work it is a woman in black that reviews a message.", "hypothesis": "It is the woman in black which has a job.", "label": 0}
+{"premise": "A dimly lighted room is populated by a large group of people.", "hypothesis": "The city is being populated by the people.", "label": 2}
+{"premise": "It is a large group of people who populates a room lighted dimly.", "hypothesis": "It is the people who are populating the city.", "label": 2}
+{"premise": "Street repairs are being done by three men in orange suits at night.", "hypothesis": "Prison was escaped from by three men in orange suits.", "label": 2}
+{"premise": "It is three men in orange suits who are doing street repairs at night.", "hypothesis": "It is three men in orange suits who escaped from prison.", "label": 2}
+{"premise": "Different varieties of tomatoes from it are explained by a chef to consumers.", "hypothesis": "Fried chicken is being eaten by the chef.", "label": 2}
+{"premise": "It is a chef who explains different varieties of tomatoes from it to consumers.", "hypothesis": "It is the chef who is eating chicken fried.", "label": 2}
+{"premise": "It is a blond woman wearing a pearl bracelet that is about to kiss a man wearing a white shirt.", "hypothesis": "It is two men who are kissing.", "label": 2}
+{"premise": "Cupcakes in her kitchen are made by a white old more woman.", "hypothesis": "Chicken is being fried by an old woman.", "label": 2}
+{"premise": "It is old a white woman more who makes cupcakes in her kitchen.", "hypothesis": "It is an old woman who is frying chicken.", "label": 2}
+{"premise": "It is three adults who are working in a garden near a fence in the yard.", "hypothesis": "It is the three adults who are outside in the garden.", "label": 0}
+{"premise": "Volleyball is being played by several women.", "hypothesis": "Volleyball is being played by a bunch of women.", "label": 0}
+{"premise": "It is several women who are playing volleyball.", "hypothesis": "It is a bunch of women who is playing volleyball.", "label": 0}
+{"premise": "A picture outside is being painted by a man behind a crowd.", "hypothesis": "A picture is being created by a painter.", "label": 0}
+{"premise": "It is a man who is painting a picture outside behind a crowd.", "hypothesis": "It is a painter who is creating a picture.", "label": 0}
+{"premise": "His sister's request for water on the road is resisted by the young boy in a red shirt and jeans.", "hypothesis": "A drink is denied by a boy to his sister.", "label": 0}
+{"premise": "It is the young boy in a red shirt and jeans who resists his sister's request for water on the road.", "hypothesis": "It is a boy who denies a drink to his sister.", "label": 0}
+{"premise": "It is a dog who is on the beach near a ball.", "hypothesis": "It is a dog who is on the beach.", "label": 0}
+{"premise": "It is a passenger wearing a life jacket who prepares to take a picture of a whale very close to the boat.", "hypothesis": "It is a man who is taking a picture of a goldfish.", "label": 2}
+{"premise": "It is a man in a purple and blue shirt and shorts who is getting ready to hit a golf ball.", "hypothesis": "It is a man who is preparing to strike a golf ball.", "label": 0}
+{"premise": "Soccer is being played by some children in front of a wooden large door.", "hypothesis": "Soccer is being played by the kids.", "label": 0}
+{"premise": "It is some children who are playing soccer in front of a wooden large door.", "hypothesis": "It is the kids who are playing soccer.", "label": 0}
+{"premise": "It is a crowd which gathered around a man, young who is performing.", "hypothesis": "It is them who are at a performance.", "label": 0}
+{"premise": "A little girl is being spun by a man in the air above his head.", "hypothesis": "A little girl is being carried by a man off the ground.", "label": 0}
+{"premise": "It is a man who is spinning a little girl in the air above his head.", "hypothesis": "It is a man who is carrying a little girl off the ground.", "label": 0}
+{"premise": "It is a group of young people who poses for a picture in a field.", "hypothesis": "It is the young people which are outdoors.", "label": 0}
+{"premise": "It is a man who is playing drums with a band.", "hypothesis": "It is a man who is singing with a band.", "label": 2}
+{"premise": "It is a woman who is weaving with a comb in her hand.", "hypothesis": "It is a woman who is doing something with her hands.", "label": 0}
+{"premise": "It is two young boys who are playing in a fountain in a city plaza.", "hypothesis": "It is kids who are taking a bath.", "label": 2}
+{"premise": "It while looking up is an engineer with a blue jacket and Cap who wears purple gloves.", "hypothesis": "It is the engineer who had purple gloves.", "label": 0}
+{"premise": "Cake is being eaten by a blond young boy with a spoon.", "hypothesis": "Cake is being eaten by a girl.", "label": 2}
+{"premise": "It is a blond young boy who is eating cake with a spoon.", "hypothesis": "It is a girl who is eating cake.", "label": 2}
+{"premise": "It is this child who is on the library steps.", "hypothesis": "It is the child who is on the schools steps.", "label": 2}
+{"premise": "The paper is read by a man with green lighting in a bar.", "hypothesis": "A mountain is being climbed by the man.", "label": 2}
+{"premise": "It is a man who reads the paper in a bar with green lighting.", "hypothesis": "It is the man which is climbing a mountain.", "label": 2}
+{"premise": "It is the white dog who is carrying a ball in its mouth.", "hypothesis": "It is a white dog who is chewing on his food.", "label": 2}
+{"premise": "It is a man in tan pants who is eating while sitting next to a plate and a pair of shoes.", "hypothesis": "It is the man which is near food.", "label": 0}
+{"premise": "A bike with a blue laundry hamper full of clothes is being ridden by old a man more on his handlebars.", "hypothesis": "Some cookies were sold by the girl.", "label": 2}
+{"premise": "It is an older man who is riding a bike with a blue laundry hamper full of clothes on his handlebars.", "hypothesis": "It is the girl which sold some cookies.", "label": 2}
+{"premise": "With a portrait of Mr. t, lighted up by, in the background, it is two women that are in a small kitchen.", "hypothesis": "It is them which are indoors.", "label": 0}
+{"premise": "As the tennis ball gets closer than him than his tennis, racquet, is swung by a man.", "hypothesis": "A basketball at the goal is being shot by a man.", "label": 2}
+{"premise": "As the tennis ball gets closer than him than, it is a man which, swings his tennis, racquet.", "hypothesis": "It is a man that is shooting a basketball at the goal.", "label": 2}
+{"premise": "It is a worker who is on a cherry picker in a palm tree.", "hypothesis": "It is a person who is messing with a tree.", "label": 0}
+{"premise": "It is a runner who poses for a picture with friends in a parking lot.", "hypothesis": "It is the runner who has no friends.", "label": 2}
+{"premise": "It is people who are enjoying food at a crowded restaurant.", "hypothesis": "It is a lone person who eats sadly, at a truck stop, in the middle of nowhere.", "label": 2}
+{"premise": "It is children who are petting small turtles in the grass.", "hypothesis": "It is the sea turtles who are inside the aquarium.", "label": 2}
+{"premise": "A little girl is being spun by a man in the air above his head.", "hypothesis": "Monopoly is being played by a man with a little girl.", "label": 2}
+{"premise": "It is a man who is spinning a little girl in the air above his head.", "hypothesis": "It is a man who is playing Monopoly with a little girl.", "label": 2}
+{"premise": "It is three children in bathing suits who are playing in foam.", "hypothesis": "It is some kids who play in some foam.", "label": 0}
+{"premise": "Sausages are being hanged by a man in a market.", "hypothesis": "Sausages are being hanged by a person in a market.", "label": 0}
+{"premise": "It is a man who is hanging sausages in a market.", "hypothesis": "It is a person who is hanging sausages in a market.", "label": 0}
+{"premise": "The hair is being shaven by a woman off of a black and white dog.", "hypothesis": "The dog is being walked by the boy in the park.", "label": 2}
+{"premise": "It is a woman who is shaving the hair off of a black and white dog.", "hypothesis": "It is the boy who is walking the dog in the park.", "label": 2}
+{"premise": "It is a male baseball player for the baseball team The Indians who prepares to catch a ball.", "hypothesis": "It is the male baseball player who belongs to the Cleveland Indians.", "label": 0}
+{"premise": "An acoustic guitar on the street is being played by a man with a beard.", "hypothesis": "Guitar is played by a man outside.", "label": 0}
+{"premise": "It is a man with a beard who is playing an acoustic guitar on the street.", "hypothesis": "It is a man who plays guitar outside.", "label": 0}
+{"premise": "A race at the track is run by the dogs.", "hypothesis": "Bunnies are being chased by dogs in a field.", "label": 2}
+{"premise": "It is the dogs who run a race at the track.", "hypothesis": "It is dogs who are chasing bunnies in a field.", "label": 2}
+{"premise": "It is children who bathe in water from large drums.", "hypothesis": "It is the kids who are taking a bath.", "label": 0}
+{"premise": "It is people who are riding their bikes down a road.", "hypothesis": "It is people which have bikes.", "label": 0}
+{"premise": "Pictures of some un-identified thing are being taken by Asian individuals.", "hypothesis": "Soccer is played by Asians in the park.", "label": 2}
+{"premise": "It is Asian individuals who are taking pictures of some thing un-identified.", "hypothesis": "It is Asians which play soccer in the park.", "label": 2}
+{"premise": "A bicycle is being ridden by a person in a black and green outfit.", "hypothesis": "A bike is ridden by a child dressed colorfully.", "label": 0}
+{"premise": "It is a person in a black and green outfit that is riding a bicycle.", "hypothesis": "It is a child dressed colorfully which rides a bike.", "label": 0}
+{"premise": "It is a group of men that is riding a walkway moving.", "hypothesis": "It is a walkway moving that has a group of men riding on it.", "label": 0}
+{"premise": "Attention is being paid by a group of attentive students to a college lecture.", "hypothesis": "A class is being attended by some students.", "label": 0}
+{"premise": "It is a group of attentive students who is paying attention to a college lecture.", "hypothesis": "It is some students who are attending a class.", "label": 0}
+{"premise": "Food is being prepared by an elderly woman in the kitchen.", "hypothesis": "The kitchen is cleaned by a man.", "label": 2}
+{"premise": "It is an elderly woman who is preparing food in the kitchen.", "hypothesis": "It is a man who cleans the kitchen.", "label": 2}
+{"premise": "It is the older woman that smiles as she holds up a hammer.", "hypothesis": "It is a man who is kicking some rocks.", "label": 2}
+{"premise": "It is an elderly woman with a tan nun uniform on and glasses who is taking a picture with her camera.", "hypothesis": "It is a woman who is in a green nun uniform.", "label": 2}
+{"premise": "A nice treat is enjoyed by an Asian woman.", "hypothesis": "Pleasure is being taken by a lady from a treat.", "label": 0}
+{"premise": "It is an Asian woman who enjoys a nice treat.", "hypothesis": "It is a lady who is taking pleasure from a treat.", "label": 0}
+{"premise": "Some off-camera activity is being captured by a female camera operator.", "hypothesis": "A picture is being painted by a lady.", "label": 2}
+{"premise": "It is a female camera operator who is capturing some off-camera activity.", "hypothesis": "It is a lady who is painting a picture.", "label": 2}
+{"premise": "It is a piece of paper which, analyzes two men, one in a blue shirt, and one in a green shirt, in the middle of a workshop area.", "hypothesis": "It is the guys who are having a party at the park.", "label": 2}
+{"premise": "A brown horse is being ridden by a man wearing black pants and a helmet.", "hypothesis": "A brown horse is being ridden by a man while protecting his head with a helmet.", "label": 0}
+{"premise": "It is a man wearing black pants and a helmet that is riding a brown horse.", "hypothesis": "It while protecting his head with a helmet is a man that is riding a brown horse.", "label": 0}
+{"premise": "It is three men who are working with their bikes in the shoulder of a road.", "hypothesis": "It is the men which are driving cars.", "label": 2}
+{"premise": "It is this which is a clown at an elementary school.", "hypothesis": "It is the clown who is at a childrens\ufffd\ufffd\ufffd school.", "label": 0}
+{"premise": "A picture in the middle of a crowd is taken by a man wearing a black beret, black coat and black gloves.", "hypothesis": "A bag of chips is stolen by a bird from a store.", "label": 2}
+{"premise": "It is a man that is watching as a woman is reading a piece of paper.", "hypothesis": "As a man reads a paper it is a woman that watches.", "label": 2}
+{"premise": "It is the woman in the white coat which is holding a camera in her hand.", "hypothesis": "It is the person which has a coat on.", "label": 0}
+{"premise": "It is the man in the black shirt which, is showing something which he has for sale to the man in the orange shirt.", "hypothesis": "It is two men who are next to each other.", "label": 0}
+{"premise": "It is an elderly woman wearing a skirt that is picking vegetables out at a local market.", "hypothesis": "It is this woman which is on a trip shopping.", "label": 0}
+{"premise": "It is some children who are playing soccer in front of a wooden large door.", "hypothesis": "It is the kids who are at the beach in the sand.", "label": 2}
+{"premise": "It is naked children who play on the muddy riverbank.", "hypothesis": "It is the riverbank which stayed clean EVERYDAY.", "label": 2}
+{"premise": "It is a woman in a pink top who is holding a glass bottle in one hand and a stitch doll in the other.", "hypothesis": "It is the top who is Pink.", "label": 0}
+{"premise": "It is the white dog who is carrying a ball in its mouth.", "hypothesis": "It is the dog who has a ball.", "label": 0}
+{"premise": "It is a man who is pushing many cartons of bread down the street.", "hypothesis": "It is a person who has food outside.", "label": 0}
+{"premise": "It is six women who wait to use a port o John in a field.", "hypothesis": "It is friends who are meeting for coffee.", "label": 2}
+{"premise": "Microscopes in a room are being looked through by two men.", "hypothesis": "Tv is being watched by the men in a room.", "label": 2}
+{"premise": "It is two men who are looking through microscopes in a room.", "hypothesis": "It is the men which are watching tv in a room.", "label": 2}
+{"premise": "It is two children both wearing tan coats that are embracing each other.", "hypothesis": "It is two kids who are hugging.", "label": 0}
+{"premise": "A large stick is being pulled by the white dog.", "hypothesis": "A nap is being taken by the dog at the park.", "label": 2}
+{"premise": "It is the white dog who is pulling a large stick.", "hypothesis": "It is the dog who is taking a nap at the park.", "label": 2}
+{"premise": "It is a woman which, poses with sunglasses shaped like dollar signs and a silver suitcase labelled LUCKY full of bills.", "hypothesis": "It is a woman who is posing for a photograph.", "label": 0}
+{"premise": "It is the man in the black hat which has his back to a theater sign.", "hypothesis": "It is the man who is at watching home tv.", "label": 2}
+{"premise": "A presentation is being given by a man.", "hypothesis": "Presentation is given by a man.", "label": 0}
+{"premise": "It is a man who is giving a presentation.", "hypothesis": "It is a man which gives presentation.", "label": 0}
+{"premise": "The ball is being gone after by two soccer players.", "hypothesis": "Baseball is being played by people.", "label": 2}
+{"premise": "It is two soccer players who are going after the ball.", "hypothesis": "It is people which are playing baseball.", "label": 2}
+{"premise": "It is some men and boys who are playing with a frisbee in a grassy area.", "hypothesis": "It is people who play frisbee outdoors.", "label": 0}
+{"premise": "In order for free range chickens to be appended on a billboard, it is two workers which stretch the canvas of the advertising billboard.", "hypothesis": "It is these two men who are relaxing by the pool.", "label": 2}
+{"premise": "Something is being kicked by the man in the dark maroon shirt.", "hypothesis": "A spoon was eaten by the dog.", "label": 2}
+{"premise": "It is the man in the dark maroon shirt who is kicking something.", "hypothesis": "It is the dog who ate a spoon.", "label": 2}
+{"premise": "It is a boy taking a shot while his team which watches anxiously.", "hypothesis": "It is a boy who is on his bike.", "label": 2}
+{"premise": "It is people who buy fruits and vegetables at an open air market.", "hypothesis": "It is people which are dancing to music in a club.", "label": 2}
+{"premise": "A boat is pilotted by a grim looking man with sunglasses.", "hypothesis": "His plane is flown by the happy pilot.", "label": 2}
+{"premise": "It is a grim looking man with sunglasses who pilots a boat.", "hypothesis": "It is the happy pilot who flies his plane.", "label": 2}
+{"premise": "It is no group of kids who is splashing nearby a rock formation, in deep water.", "hypothesis": "It is the kids who are in deep water.", "label": 0}
+{"premise": "Protective hair and face coverings are being worn by a man.", "hypothesis": "Their face and hair are being covered by a person.", "label": 0}
+{"premise": "It is a man who is wearing protective hair and face coverings.", "hypothesis": "It is a person who is covering their face and hair.", "label": 0}
+{"premise": "It is the man in the blue shirt that is relaxing on the rocks.", "hypothesis": "It is a man who is wearing a blue shirt.", "label": 0}
+{"premise": "It is a young boy with a shaven white head and dirty shirt, collared, who holds a chicken in his arm.", "hypothesis": "It is the young boy who went swimming.", "label": 2}
+{"premise": "The camera is being smiled at by two women wearing red.", "hypothesis": "Red was worn by the two women smiling at the camera.", "label": 0}
+{"premise": "It is two women wearing red who are smiling at the camera.", "hypothesis": "Smiling at the camera it is the two women which wore red.", "label": 0}
+{"premise": "It is a man who is riding an escalator, who is carrying carts shopping, up.", "hypothesis": "It is the man which is inside a building.", "label": 0}
+{"premise": "It is people who gathered on it around a table with food and wine.", "hypothesis": "It is a man who is riding a bicycle down the large hill.", "label": 2}
+{"premise": "A tennis ball in his mouth is held by a brown and white dog.", "hypothesis": "A ball retrieved is held by a dog mouth.", "label": 0}
+{"premise": "It is a brown and white dog that holds a tennis ball in his mouth.", "hypothesis": "It is a dog mouth who holds a ball retrieved.", "label": 0}
+{"premise": "It is a young woman who is about to descend the stairs into a metro station.", "hypothesis": "It is a lady who is taking a bus.", "label": 2}
+{"premise": "Two men, wearing identical shirts are looked by into a classic car hood.", "hypothesis": "A car is being looked at by two people.", "label": 0}
+{"premise": "Some papers are stapled by a woman with red hair.", "hypothesis": "The computer is being worked on by a red haired woman.", "label": 2}
+{"premise": "It is a woman with red hair that staples some papers.", "hypothesis": "It is a red haired woman who is working on the computer.", "label": 2}
+{"premise": "It is a mountainous photograph that is complete with a blue sky.", "hypothesis": "It is somebody who has taken a photograph.", "label": 0}
+{"premise": "A wall that is filled with drawings in a building is stared at by a group of people.", "hypothesis": "Something is being looked at by a group of people.", "label": 0}
+{"premise": "It is a group of people which, stares at a wall which is filled with drawings in a building.", "hypothesis": "It is a group of people who is looking at something.", "label": 0}
+{"premise": "It is a young couple holding that hands in the park.", "hypothesis": "It is a couple who are at the park.", "label": 0}
+{"premise": "It is two people in coats that kiss on the side of a road.", "hypothesis": "It is people which show their appreciation for another.", "label": 0}
+{"premise": "A hug is being given by the young lady to the old man.", "hypothesis": "A hug is being given by the lady to the old man.", "label": 0}
+{"premise": "It is the young lady who is giving a hug to the old man.", "hypothesis": "It is the lady who is giving a hug to the old man.", "label": 0}
+{"premise": "It is sexy young men who stand to be having a heated conversation on a balcony.", "hypothesis": "It is young men which are arguing.", "label": 0}
+{"premise": "It is a group of children looking at the contents of a slide through a microscope that displayed on a computer screen.", "hypothesis": "It is the children who are looking through a microscope.", "label": 0}
+{"premise": "A blue ball to another golden dog on the beach is passed by a golden dog.", "hypothesis": "The golden dog is being played by ball with another dog outside.", "label": 0}
+{"premise": "It is a golden dog who passes a blue ball to another golden dog on the beach.", "hypothesis": "It is the golden dog who is playing ball with another dog outside.", "label": 0}
+{"premise": "Street repairs are being done by three men in orange suits at night.", "hypothesis": "The streets are being repaired by the men.", "label": 0}
+{"premise": "It is three men in orange suits who are doing street repairs at night.", "hypothesis": "It is the men which are repairing the streets.", "label": 0}
+{"premise": "An object in the snow is carried by a dog.", "hypothesis": "Some object is being carried by a dog in the snow.", "label": 0}
+{"premise": "It is a dog who carries an object in the snow.", "hypothesis": "It is a dog in the snow who is carrying some object.", "label": 0}
+{"premise": "It is the man that is outside on the beach walking his dog.", "hypothesis": "It is the man and his dog who are taking a boat ride.", "label": 2}
+{"premise": "His thumb is being sucked by a young face painted boy.", "hypothesis": "His thumb is being not sucked by the boy.", "label": 2}
+{"premise": "It is a young face painted boy who is sucking his thumb.", "hypothesis": "It is not the boy who is sucking his thumb.", "label": 2}
+{"premise": "It is a lady who is helping another woman work a silver compartment, which, is most likely related to nurse work, in.", "hypothesis": "It is a lady who is helping another womens work.", "label": 0}
+{"premise": "A scientist is studied by a slide in order to work on her new creation.", "hypothesis": "A slide that is related to her invention is studied by a scientist.", "label": 0}
+{"premise": "It is a lady dressed in a costume that is posing with an ax in the middle of the woods.", "hypothesis": "It is a lady with an ax who is posing in the middle of the woods.", "label": 0}
+{"premise": "Cake is being eaten by a blond young boy with a spoon.", "hypothesis": "Cake is being eaten by a boy.", "label": 0}
+{"premise": "It is a blond young boy who is eating cake with a spoon.", "hypothesis": "It is a boy who is eating cake.", "label": 0}
+{"premise": "Snow is being shovelled by a person with an orange shovel.", "hypothesis": "The desert is being poured by the rain in.", "label": 2}
+{"premise": "It is a person with an orange shovel who is shovelling snow.", "hypothesis": "It is the rain who is pouring in the desert.", "label": 2}
+{"premise": "The water is grazed by the white large bird.", "hypothesis": "The water is being touched by the bird.", "label": 0}
+{"premise": "It is the white large bird who grazes the water.", "hypothesis": "It is the bird who is touching the water.", "label": 0}
+{"premise": "A ball with a bat is whiffed by a boy.", "hypothesis": "A bat is being swung by the boy.", "label": 0}
+{"premise": "It is a boy who whiffs a ball with a bat.", "hypothesis": "It is the boy which is swinging a bat.", "label": 0}
+{"premise": "It is a man in a gray shirt and green tie who is working with his computer at his office desk.", "hypothesis": "It is a man who is near a desk and a computer.", "label": 0}
+{"premise": "It is the person which is reading a book.", "hypothesis": "It is a person who reads.", "label": 0}
+{"premise": "It is a dark hair man, wearing a black, and white t-shirt, which, eats in a park surrounded by people.", "hypothesis": "It is a man who is eating.", "label": 0}
+{"premise": "It is a womens\ufffd\ufffd\ufffd volleyball team who plays in a gymnasium brown and green.", "hypothesis": "It is a sports team which is in a gym.", "label": 0}
+{"premise": "It is no man wearing dark jeans, an orange shirt, and an orange apron that is next to a bunch of plants and flowers and a woman with a blue top.", "hypothesis": "It is two people who are next to each other.", "label": 0}
+{"premise": "It is a group of young men who is dumping soil onto the ground of their back yard.", "hypothesis": "It is the young men which are working outside.", "label": 0}
+{"premise": "While a man in white uniform is watching him something on the ground is being cut by a man in gray uniform.", "hypothesis": "A news show is being hosted by the men.", "label": 2}
+{"premise": "While a man in white uniform is watching him it is a man in gray uniform that is cutting something on the ground.", "hypothesis": "It is the men which are hosting a news show.", "label": 2}
+{"premise": "A break is being taken by a couple from bicycling.", "hypothesis": "A couple are being raced by each other on their bikes.", "label": 2}
+{"premise": "It is a couple who is taking a break from bicycling.", "hypothesis": "It is a couple who are racing each other on their bikes.", "label": 2}
+{"premise": "It is a crowd of people at a county fair who watches three men agitate a large bull.", "hypothesis": "It is a man which rides horseback in the field.", "label": 2}
+{"premise": "Something to the other two girls is being promoted by a lady.", "hypothesis": "Some girls are being engaged by a woman.", "label": 0}
+{"premise": "It is a lady who is promoting something to the other two girls.", "hypothesis": "It is a woman who is engaging some girls.", "label": 0}
+{"premise": "It is men which play hockey.", "hypothesis": "It is aliens who play.", "label": 2}
+{"premise": "It is sexy young men who stand to be having a heated conversation on a balcony.", "hypothesis": "It is the young men which are in complete agreement.", "label": 2}
+{"premise": "It is an emergency worker which directs a man pulling a sled with emergency equipment on a snowy path.", "hypothesis": "It is an emergency worker who is at the beach.", "label": 2}
+{"premise": "One carrying of an orange dog toy is run by two black labs.", "hypothesis": "A rabbit is being chased by the dogs.", "label": 2}
+{"premise": "It is two black labs who run one carrying of an orange dog toy.", "hypothesis": "It is the dogs who are chasing a rabbit.", "label": 2}
+{"premise": "While lying in snow, beside a red plastic sled, it is a child in a red coat which, waves a hand in the air.", "hypothesis": "It is a child who is playing in the snow.", "label": 0}
+{"premise": "Chocolate cake with his fingers while holding the spoon, in their other hand is eaten by a blond young child.", "hypothesis": "Food is eaten by a child with his hands.", "label": 0}
+{"premise": "While holding the spoon in their other hand, it is a blond young child which eats chocolate cake with his fingers.", "hypothesis": "It is a child who eats food with his hands.", "label": 0}
+{"premise": "It is the two dogs who are playing catch with a red frisbee.", "hypothesis": "It is two dogs who are playing together.", "label": 0}
+{"premise": "Wearing a red jacket another man is being kicked by one man wearing a blue jacket.", "hypothesis": "Another is kicked by one guy.", "label": 0}
+{"premise": "It is one man wearing a blue jacket who is kicking another man wearing a red jacket.", "hypothesis": "It is one guy which kicks another.", "label": 0}
+{"premise": "It is a woman with red hair and a leatherred jacket who holds a Harp in front of a snowy forest.", "hypothesis": "It is the woman which has black hair.", "label": 2}
+{"premise": "It is a boy taking a shot while his team which watches anxiously.", "hypothesis": "It is a boy who is playing a game.", "label": 0}
+{"premise": "It is two children who work together on a project at a table.", "hypothesis": "It is two children who are doing something together.", "label": 0}
+{"premise": "It is four men wearing orange vests who are putting a steel beam on the ground in.", "hypothesis": "It is no one who is in orange.", "label": 2}
+{"premise": "While many fans relax and enjoy the game, a curve ball is sent by a pro baseball pitcher to his opponent.", "hypothesis": "Upset, while fans look on baseballs are being juggled by a man.", "label": 2}
+{"premise": "While many fans relax and enjoy the game, it is a pro baseball pitcher which sends a curve ball to his opponent.", "hypothesis": "Upset, while fans look on it is a man that is juggling baseballs.", "label": 2}
+{"premise": "A boat with an orange flag that is sitting next to a body of water, on sand is examined by a group of people.", "hypothesis": "Sand isn't liked by people.", "label": 2}
+{"premise": "It is a group of people who examines a boat with an orange flag, which is sitting next to a body of water, on sand.", "hypothesis": "It is not people which do like sand.", "label": 2}
+{"premise": "It is a young woman who is wearing a paperred crown at an outdoor event.", "hypothesis": "It is the woman which is outdoors.", "label": 0}
+{"premise": "It is a street performer who is entertaining a gathered audience with the help of a young boy.", "hypothesis": "It is a boy who is performing on stage.", "label": 2}
+{"premise": "Their bingo cards are examined by an old woman and a young man.", "hypothesis": "Poker is being played by a young woman and old man.", "label": 2}
+{"premise": "It is an old woman and a young man who examine their bingo cards.", "hypothesis": "It is a young woman and old man who are playing poker.", "label": 2}
+{"premise": "It is an announcement for everybody about the beach who is here.", "hypothesis": "It is the beach who has an announcement.", "label": 0}
+{"premise": "A tennis ball in its mouth in a field is held by a white dog.", "hypothesis": "A rolling tennis ball is being chased after by the dog.", "label": 2}
+{"premise": "It is a white dog who holds a tennis ball in its mouth in a field.", "hypothesis": "It is the dog who is chasing after a rolling tennis ball.", "label": 2}
+{"premise": "Orange leaves off patches of grass are blown by two workers with leaved blowers next to a wet sidewalk.", "hypothesis": "Leaves at each other are blown by two workers with leaved blowers for fun.", "label": 2}
+{"premise": "It is two workers with leaved blowers who blow orange leaves off patches of grass, next to a wet sidewalk.", "hypothesis": "It is two workers with leaved blowers who blow leaves at each other for fun.", "label": 2}
+{"premise": "It is a black, which, women holding a sign, which says, free, which, hugs in the city.", "hypothesis": "It is a woman who is holding a sign.", "label": 0}
+{"premise": "His bicycle is walked by a young man in an orange hat down a street.", "hypothesis": "His scooter is walked by a man in blue down a street.", "label": 2}
+{"premise": "It is a young man in an orange hat who walks his bicycle down a street.", "hypothesis": "It is a man in blue that walks his scooter down a street.", "label": 2}
+{"premise": "A golden colorred ax is being held by a woman in a type coat hooded.", "hypothesis": "A sword is held by a man.", "label": 2}
+{"premise": "It is a woman in a type coat hooded that is holding a golden colorred ax.", "hypothesis": "It is a man who holds a sword.", "label": 2}
+{"premise": "It is a little kid in the middle of a debris field who is kicking a soccer ball.", "hypothesis": "It is a child which is exercising among garbage.", "label": 2}
+{"premise": "It is a group of children looking at the contents of a slide through a microscope that displayed on a computer screen.", "hypothesis": "It is the kids who are looking through a telescope.", "label": 2}
+{"premise": "It is a man wearing red sunglasses who is carrying two cameras.", "hypothesis": "It is the man which has two cameras.", "label": 0}
+{"premise": "It is a person who is climbing a wooden ladder on a very steep jagged rock cliff.", "hypothesis": "It is a person who is mountain climbing using nothing but his hands and the rocks.", "label": 2}
+{"premise": "It is group of young adults posing for picture near Spanish language which signs.", "hypothesis": "It is the people which are near a sign.", "label": 0}
+{"premise": "A small white ball is being thrown by a man at some red cups.", "hypothesis": "Shades of gray are being watched by the woman.", "label": 2}
+{"premise": "It is a man who is throwing a small white ball at some red cups.", "hypothesis": "It is the woman which is watching shades of gray.", "label": 2}
+{"premise": "It is a man who is dancing in front of a band.", "hypothesis": "It is a man who is dancing.", "label": 0}
+{"premise": "It is a woman who stands to be smiling while holding of a stuffed cat.", "hypothesis": "It is a woman that is holding a stuffed animal.", "label": 0}
+{"premise": "Puppies are nursed by a golden retriever.", "hypothesis": "Puppies are nursed by a cat.", "label": 2}
+{"premise": "It is a golden retriever who nurses puppies.", "hypothesis": "It is a cat who nurses puppies.", "label": 2}
+{"premise": "While looking at a book, the ground is being laid by a woman, wearing a tank top and black pants, on.", "hypothesis": "A book is being looked at by a woman.", "label": 0}
+{"premise": "While looking at a book is it a woman, wearing a tank top and black pants, which, is laying on the ground.", "hypothesis": "It is a woman who is looking at a book.", "label": 0}
+{"premise": "It is bubbles who surround a statue in the middle of a street.", "hypothesis": "It is a statue that is in the middle of the street.", "label": 0}
+{"premise": "It is a musical group who performs with their instruments on stage.", "hypothesis": "It is a group which performs with instruments.", "label": 0}
+{"premise": "It is a worker who is preparing fish to be sold at a market.", "hypothesis": "It is a person who is on a boat fishing.", "label": 2}
+{"premise": "A guy is chased by a guy in a blue shirt in an orange shirt during a game of flag football.", "hypothesis": "Flag football is being played by two people.", "label": 0}
+{"premise": "It is a guy in a blue shirt who chases a guy in an orange shirt during a game of flag football.", "hypothesis": "It is two people who are playing flag football.", "label": 0}
+{"premise": "It is a person who attempts to rope a black cow while riding a horse.", "hypothesis": "It is the person which is on a horse.", "label": 0}
+{"premise": "It is a man, wearing a blue shirt and white t-shirt, bearded, which is working on a fishing net.", "hypothesis": "It is somebody who is preparing to catch fish.", "label": 0}
+{"premise": "It is a woman who is taking a picture of a girl on a scooter.", "hypothesis": "It is the girl which is on a car.", "label": 2}
+{"premise": "It is an Asian man who is praying at a buddhist temple.", "hypothesis": "It is a man that is practicing his religion.", "label": 0}
+{"premise": "It is a young black man who is getting his hair buzzed off.", "hypothesis": "It is a man who is getting a hair cut.", "label": 0}
+{"premise": "His ship out at sea is being steered by a man.", "hypothesis": "His boat is pilotted by a man.", "label": 0}
+{"premise": "It is a man who is steering his ship out at sea.", "hypothesis": "It is a man which pilots his boat.", "label": 0}
+{"premise": "It is a man wearing a shirt, striped, which has a camera slung over his shoulder.", "hypothesis": "It is the man with the stripped shirt who is carrying a camera on his body.", "label": 0}
+{"premise": "It is a man who is riding his dirt bike through the air in the desert.", "hypothesis": "It is a man who is on a motorbike.", "label": 0}
+{"premise": "A boy wearing red and blue is chased by a black dog.", "hypothesis": "A boy is chased by a dog.", "label": 0}
+{"premise": "It is a black dog who chases a boy wearing red and blue.", "hypothesis": "It is a dog who chases a boy.", "label": 0}
+{"premise": "It is a girl holding a beverage who points at a painting.", "hypothesis": "It is the girl which has a beverage.", "label": 0}
+{"premise": "It is the firefighter who has a hose ready to tackle a car fire.", "hypothesis": "It is a firefighter that rescues a cat from a house fire.", "label": 2}
+{"premise": "It is this which is a very large vegetable stand under a white tent.", "hypothesis": "It is people which are eating fast food.", "label": 2}
+{"premise": "A boy wearing red and blue is chased by a black dog.", "hypothesis": "His tail is chased by a dog.", "label": 2}
+{"premise": "It is a black dog who chases a boy wearing red and blue.", "hypothesis": "It is a dog who chases his tail.", "label": 2}
+{"premise": "A bag is being carried by a man in shorts and flip flops on his back.", "hypothesis": "A bag is being carried by a man on his back.", "label": 0}
+{"premise": "It is a man in shorts and flip flops who is carrying a bag on his back.", "hypothesis": "It is a man who is carrying a bag on his back.", "label": 0}
+{"premise": "As they pass by it is a man on one miniature train which passes a circular object to a man on another train.", "hypothesis": "It is the man which is running the train into another train.", "label": 2}
+{"premise": "It is a lady holding one dog while another dog who is playing in the yard.", "hypothesis": "It is a lady who has two dogs with her.", "label": 0}
+{"premise": "It is two people in coats that kiss on the side of a road.", "hypothesis": "It is two married people who avoid looking at each other.", "label": 2}
+{"premise": "A blue telescope at a statue of a dinosaur is being looked through by a woman with a navy sweater.", "hypothesis": "Television is being watched by the woman.", "label": 2}
+{"premise": "It is a woman with a navy sweater who is looking through a blue telescope at a statue of a dinosaur.", "hypothesis": "It is the woman which is watching television.", "label": 2}
+{"premise": "It is a biker that races.", "hypothesis": "It is a person who is riding a bike.", "label": 0}
+{"premise": "Sitting around him, it is a boy in a gray and yellow jacket who is raising his hand, in front of others.", "hypothesis": "It is a boy who is wearing a jacket.", "label": 0}
+{"premise": "His victory while smiling and shooting champagne is being celebrated by a man in the air with his teammate.", "hypothesis": "His victory while smiling and shooting guns is being celebrated by a man in the air.", "label": 2}
+{"premise": "It is a man that is celebrating his victory while smiling and shooting champagne in the air with his teammate.", "hypothesis": "It is a man that is celebrating his victory while smiling and shooting guns in the air.", "label": 2}
+{"premise": "Reading a book be manned by sitting on a bench.", "hypothesis": "A run is being gone for by a man.", "label": 2}
+{"premise": "It is two men who are playing during a basketball game.", "hypothesis": "It is two men who are fighting each other to the death.", "label": 2}
+{"premise": "A sacred dance is being performed by the Indian's.", "hypothesis": "Sand castles are being built by the Indians.", "label": 2}
+{"premise": "It is the Indian's who is performing a sacred dance.", "hypothesis": "It is the Indians who are building sands castles.", "label": 2}
+{"premise": "It is a young man wearing a t-shirt, that, says Joplin, which, plays the guitar in front of a large amplifier.", "hypothesis": "It is the young man who is a guitar player.", "label": 0}
+{"premise": "It is a young man with glasses and his companion who are attempting to do laundry in a public place.", "hypothesis": "It is no one which has glasses on.", "label": 2}
+{"premise": "Various meats on a large grill are prepared by a woman in a white apron.", "hypothesis": "His tv dinner is being eaten by a man.", "label": 2}
+{"premise": "It is a woman in a white apron which prepares various meats on a large grill.", "hypothesis": "It is a man who is eating his tv dinner.", "label": 2}
+{"premise": "Sitting around him it is a boy in a gray and yellow jacket who is raising his hand, in front of others.", "hypothesis": "It is a boy who is dancing for his friends.", "label": 2}
+{"premise": "As a man stands on stage, it is fireworks which light up the night of it.", "hypothesis": "It is the man that is studying quietly, in the house.", "label": 2}
+{"premise": "It is man with a spider web and spiders which painted on his face.", "hypothesis": "It is the man which has his face painted.", "label": 0}
+{"premise": "It is two women in bathing suits who play on the beach.", "hypothesis": "It is two girls who are helping their mom with the laundry.", "label": 2}
+{"premise": "To peer down the street a woman on the sidewalk is blocked by the sun from her eyes.", "hypothesis": "Her eyes are being covered by a woman from the bright concert lights.", "label": 2}
+{"premise": "It is three children who are shooting guns in the woods.", "hypothesis": "It is three children who are in a forested area.", "label": 0}
+{"premise": "Food is prepared by chefs on a grill in front of their customers.", "hypothesis": "Food is being made by the chefs for themselves.", "label": 2}
+{"premise": "It is chefs who prepare food on a grill in front of their customers.", "hypothesis": "It is the chefs who are making food for themselves.", "label": 2}
+{"premise": "It is four kids who pose on a stage.", "hypothesis": "It is several little people who are breaking into a theater.", "label": 2}
+{"premise": "It is a man and a woman sitting that down laughing.", "hypothesis": "It is the man and woman who are having a good time.", "label": 0}
+{"premise": "It is two men, one in a red shirt, and one in a white shirt which, were on a boat in the blue green beautiful water.", "hypothesis": "It is some people which are on land.", "label": 2}
+{"premise": "It is a man who is posing on a ski board with snow in the background.", "hypothesis": "It is a man who is posing.", "label": 0}
+{"premise": "It is no kid with his painted face that is at the top of a concrete structure with asterisks carved inside.", "hypothesis": "It is a kid who has a face painted.", "label": 0}
+{"premise": "It is two dogs who are playing together.", "hypothesis": "It is two canines who are having fun.", "label": 0}
+{"premise": "Two full red grocery bags are being carried by a woman in a yellow shirt.", "hypothesis": "A bath is being taken by a lady.", "label": 2}
+{"premise": "It is a woman in a yellow shirt who is carrying two full red grocery bags.", "hypothesis": "It is a lady who is taking a bath.", "label": 2}
+{"premise": "It is three children and adults in the background who all pretends to sleep.", "hypothesis": "It is the people which are pretending to sleep.", "label": 0}
+{"premise": "A young boy, which, also wears a blue shirt, is held by a man, who, wears glasses, a blue shirt, and an Sox Chicago white cap.", "hypothesis": "Glasses and a baseball cap are being worn by a man.", "label": 0}
+{"premise": "It is a man, which, wears glasses, a blue shirt, and an Sox Chicago white cap, which, holds a young boy, which, also wears a blue shirt.", "hypothesis": "It is a man who is wearing glasses and a baseball cap.", "label": 0}
+{"premise": "It is two men who are boxing fighting of ARENA in.", "hypothesis": "It is two men who are boxing.", "label": 0}
+{"premise": "His sled is dragged by a boy through the snow.", "hypothesis": "His dog is dragged by a boy.", "label": 2}
+{"premise": "It is a boy who drags his sled through the snow.", "hypothesis": "It is a boy who drags his dog.", "label": 2}
+{"premise": "Flowers are being watered by a girl in a black skirt and blue dress.", "hypothesis": "Water is being put by the girl in the pot.", "label": 2}
+{"premise": "It is a girl in a black skirt and blue dress who is watering flowers.", "hypothesis": "It is the girl who is putting water in the pot.", "label": 2}
+{"premise": "The ball is being pitched by the pitcher in a game of baseball.", "hypothesis": "The ball is thrown by the pitcher.", "label": 0}
+{"premise": "It is the pitcher who is pitching the ball in a game of baseball.", "hypothesis": "It is the pitcher who throws the ball.", "label": 0}
+{"premise": "Three white dogs with spots down a street with palm trees are walked by a man.", "hypothesis": "The man is being killed by the wolves.", "label": 2}
+{"premise": "It is a man who walks three white dogs with spots down a street with palm trees.", "hypothesis": "It is the wolves who are killing the man.", "label": 2}
