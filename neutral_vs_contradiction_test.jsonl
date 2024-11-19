@@ -1,0 +1,200 @@
+{"premise": "He went to the library to read a new book.", "hypothesis": "He did not go to the library.", "label": 2}
+{"premise": "He went to the library to read a new book.", "hypothesis": "He spent time at the library.", "label": 1}
+{"premise": "She was making a phone call in her office.", "hypothesis": "She was talking on the phone.", "label": 1}
+{"premise": "She was making a phone call in her office.", "hypothesis": "She was not making a phone call.", "label": 2}
+{"premise": "They visited the aquarium to see the sea animals.", "hypothesis": "They did not visit the aquarium.", "label": 2}
+{"premise": "They visited the aquarium to see the sea animals.", "hypothesis": "They enjoyed looking at marine life.", "label": 1}
+{"premise": "He was baking a cake for his friend's birthday.", "hypothesis": "He was making a special cake for a celebration.", "label": 1}
+{"premise": "He was baking a cake for his friend's birthday.", "hypothesis": "He did not bake a cake.", "label": 2}
+{"premise": "She was knitting a blanket for her grandmother.", "hypothesis": "She was not knitting.", "label": 2}
+{"premise": "She was knitting a blanket for her grandmother.", "hypothesis": "She was creating something handmade.", "label": 1}
+{"premise": "They were playing cards at the dinner table.", "hypothesis": "They were enjoying a game together.", "label": 1}
+{"premise": "They were playing cards at the dinner table.", "hypothesis": "They were not playing cards.", "label": 2}
+{"premise": "He enjoyed a glass of lemonade by the pool.", "hypothesis": "He did not have any lemonade.", "label": 2}
+{"premise": "He enjoyed a glass of lemonade by the pool.", "hypothesis": "He was relaxing by the water.", "label": 1}
+{"premise": "She took a yoga class in the morning.", "hypothesis": "She practiced yoga to start her day.", "label": 1}
+{"premise": "She took a yoga class in the morning.", "hypothesis": "She did not attend a yoga class.", "label": 2}
+{"premise": "The couple took a stroll through the park after dinner.", "hypothesis": "They did not walk in the park.", "label": 2}
+{"premise": "The couple took a stroll through the park after dinner.", "hypothesis": "They enjoyed an evening walk.", "label": 1}
+{"premise": "They spent the afternoon fishing at the lake.", "hypothesis": "They enjoyed a peaceful time by the water.", "label": 1}
+{"premise": "They spent the afternoon fishing at the lake.", "hypothesis": "They did not go fishing.", "label": 2}
+{"premise": "The workers were repairing the road near the house.", "hypothesis": "The road was not being repaired.", "label": 2}
+{"premise": "The workers were repairing the road near the house.", "hypothesis": "The road was under construction.", "label": 1}
+{"premise": "She was painting her bedroom a light blue color.", "hypothesis": "She was redecorating her room.", "label": 1}
+{"premise": "She was painting her bedroom a light blue color.", "hypothesis": "She was not painting the room.", "label": 2}
+{"premise": "They enjoyed a meal at a fancy restaurant.", "hypothesis": "They went to a nice place for dinner.", "label": 1}
+{"premise": "They enjoyed a meal at a fancy restaurant.", "hypothesis": "They did not eat at a restaurant.", "label": 2}
+{"premise": "He played the piano for his friends at the party.", "hypothesis": "He did not play the piano.", "label": 2}
+{"premise": "He played the piano for his friends at the party.", "hypothesis": "He entertained his guests with music.", "label": 1}
+{"premise": "She was taking a yoga class in the studio.", "hypothesis": "She practices yoga regularly.", "label": 1}
+{"premise": "She was taking a yoga class in the studio.", "hypothesis": "She was not in a yoga class.", "label": 2}
+{"premise": "The dog was running around the yard in excitement.", "hypothesis": "The dog was lying still.", "label": 2}
+{"premise": "The dog was running around the yard in excitement.", "hypothesis": "The dog was active and playful.", "label": 1}
+{"premise": "He was walking to work in the morning.", "hypothesis": "He was traveling to his job.", "label": 1}
+{"premise": "He was walking to work in the morning.", "hypothesis": "He was not walking to work.", "label": 2}
+{"premise": "She enjoyed a quiet evening with a good book.", "hypothesis": "She did not read a book.", "label": 2}
+{"premise": "She enjoyed a quiet evening with a good book.", "hypothesis": "She spent time reading and relaxing.", "label": 1}
+{"premise": "They went to the theater to watch a play.", "hypothesis": "They did not go to the theater.", "label": 2}
+{"premise": "They went to the theater to watch a play.", "hypothesis": "They enjoyed a live performance.", "label": 1}
+{"premise": "She was taking photographs at the wedding.", "hypothesis": "She was capturing memories at the event.", "label": 1}
+{"premise": "She was taking photographs at the wedding.", "hypothesis": "She was not taking any photographs.", "label": 2}
+{"premise": "He went on a road trip to explore new places.", "hypothesis": "He did not go on a road trip.", "label": 2}
+{"premise": "He went on a road trip to explore new places.", "hypothesis": "He traveled to different destinations.", "label": 1}
+{"premise": "She was reading a newspaper while having breakfast.", "hypothesis": "She was catching up on current events.", "label": 1}
+{"premise": "She was reading a newspaper while having breakfast.", "hypothesis": "She was not reading anything.", "label": 2}
+{"premise": "They were having a barbecue in the backyard.", "hypothesis": "They did not have a barbecue.", "label": 2}
+{"premise": "They were having a barbecue in the backyard.", "hypothesis": "They were grilling food outside.", "label": 1}
+{"premise": "He went to the gym for his daily workout.", "hypothesis": "He exercised regularly at the gym.", "label": 1}
+{"premise": "He went to the gym for his daily workout.", "hypothesis": "He did not go to the gym.", "label": 2}
+{"premise": "She was sewing a dress for the upcoming party.", "hypothesis": "She was making a new outfit.", "label": 1}
+{"premise": "She was sewing a dress for the upcoming party.", "hypothesis": "She was not sewing.", "label": 2}
+{"premise": "They took a walk along the beach at sunset.", "hypothesis": "They did not walk along the beach.", "label": 2}
+{"premise": "They took a walk along the beach at sunset.", "hypothesis": "They enjoyed a peaceful walk by the water.", "label": 1}
+{"premise": "He made a delicious breakfast for his family.", "hypothesis": "He prepared a meal for everyone.", "label": 1}
+{"premise": "He made a delicious breakfast for his family.", "hypothesis": "He did not make breakfast.", "label": 2}
+{"premise": "She was listening to music while doing her homework.", "hypothesis": "She was not listening to music.", "label": 2}
+{"premise": "She was listening to music while doing her homework.", "hypothesis": "She likes to listen to music while working.", "label": 1}
+{"premise": "They went to the park to have a picnic.", "hypothesis": "They spent time outdoors eating together.", "label": 1}
+{"premise": "They went to the park to have a picnic.", "hypothesis": "They did not go to the park.", "label": 2}
+{"premise": "He was cleaning the garage on a Saturday morning.", "hypothesis": "He was tidying up the garage.", "label": 1}
+{"premise": "He was cleaning the garage on a Saturday morning.", "hypothesis": "He was not cleaning anything.", "label": 2}
+{"premise": "She was watching a movie with her friends.", "hypothesis": "She was not watching a movie.", "label": 2}
+{"premise": "She was watching a movie with her friends.", "hypothesis": "She was spending time with her friends.", "label": 1}
+{"premise": "They were having a family dinner at home.", "hypothesis": "They were eating together as a family.", "label": 1}
+{"premise": "They were having a family dinner at home.", "hypothesis": "They were not having dinner together.", "label": 2}
+{"premise": "He enjoyed playing tennis on weekends.", "hypothesis": "He did not play tennis.", "label": 2}
+{"premise": "He enjoyed playing tennis on weekends.", "hypothesis": "He played sports on the weekends.", "label": 1}
+{"premise": "She was baking cookies in the kitchen.", "hypothesis": "She was making some baked goods.", "label": 1}
+{"premise": "She was baking cookies in the kitchen.", "hypothesis": "She was not baking anything.", "label": 2}
+{"premise": "The children went to the swimming pool to play.", "hypothesis": "The children were not swimming.", "label": 2}
+{"premise": "The children went to the swimming pool to play.", "hypothesis": "The children enjoyed swimming.", "label": 1}
+{"premise": "He enjoyed painting landscapes in his free time.", "hypothesis": "He liked to paint as a hobby.", "label": 1}
+{"premise": "He enjoyed painting landscapes in his free time.", "hypothesis": "He did not paint landscapes.", "label": 2}
+{"premise": "She was preparing a surprise party for her friend.", "hypothesis": "She was not preparing a party.", "label": 2}
+{"premise": "She was preparing a surprise party for her friend.", "hypothesis": "She was planning an event for someone.", "label": 1}
+{"premise": "They were making paper airplanes in the classroom.", "hypothesis": "The students were having fun with crafts.", "label": 1}
+{"premise": "They were making paper airplanes in the classroom.", "hypothesis": "They were not making paper airplanes.", "label": 2}
+{"premise": "He was jogging around the neighborhood.", "hypothesis": "He was not jogging.", "label": 2}
+{"premise": "He was jogging around the neighborhood.", "hypothesis": "He was exercising outdoors.", "label": 1}
+{"premise": "She went to a spa for a relaxing massage.", "hypothesis": "She enjoyed pampering herself at the spa.", "label": 1}
+{"premise": "She went to a spa for a relaxing massage.", "hypothesis": "She did not go to a spa.", "label": 2}
+{"premise": "The team celebrated their victory at a restaurant.", "hypothesis": "The team did not celebrate their victory.", "label": 2}
+{"premise": "The team celebrated their victory at a restaurant.", "hypothesis": "They went out to eat after winning.", "label": 1}
+{"premise": "He was reading a detective novel before bed.", "hypothesis": "He liked reading mysteries.", "label": 1}
+{"premise": "He was reading a detective novel before bed.", "hypothesis": "He was not reading anything.", "label": 2}
+{"premise": "She was watering the plants in the garden.", "hypothesis": "She was not watering the plants.", "label": 2}
+{"premise": "She was watering the plants in the garden.", "hypothesis": "She was taking care of her garden.", "label": 1}
+{"premise": "They went on a weekend trip to the mountains.", "hypothesis": "They traveled to the mountains for a break.", "label": 1}
+{"premise": "They went on a weekend trip to the mountains.", "hypothesis": "They did not go on a trip.", "label": 2}
+{"premise": "He was playing chess with his friend at the park.", "hypothesis": "He was not playing chess.", "label": 2}
+{"premise": "He was playing chess with his friend at the park.", "hypothesis": "He was enjoying a game of chess.", "label": 1}
+{"premise": "She was attending a yoga retreat for the weekend.", "hypothesis": "She spent time relaxing at a retreat.", "label": 1}
+{"premise": "She was attending a yoga retreat for the weekend.", "hypothesis": "She was not attending any retreat.", "label": 2}
+{"premise": "He was writing an email to his colleague.", "hypothesis": "He was not writing an email.", "label": 2}
+{"premise": "He was writing an email to his colleague.", "hypothesis": "He was communicating with a coworker.", "label": 1}
+{"premise": "The friends were chatting over coffee at a caf\u00c3\u00a9.", "hypothesis": "They spent time talking and drinking coffee.", "label": 1}
+{"premise": "The friends were chatting over coffee at a caf\u00c3\u00a9.", "hypothesis": "They were not chatting.", "label": 2}
+{"premise": "She was knitting a scarf for the winter season.", "hypothesis": "She was making something for the cold months.", "label": 1}
+{"premise": "She was knitting a scarf for the winter season.", "hypothesis": "She was not knitting.", "label": 2}
+{"premise": "They watched a documentary about space exploration.", "hypothesis": "They did not watch any documentary.", "label": 2}
+{"premise": "They watched a documentary about space exploration.", "hypothesis": "They enjoyed learning about space.", "label": 1}
+{"premise": "He was attending a conference on digital marketing.", "hypothesis": "He was not attending any conference.", "label": 2}
+{"premise": "He was attending a conference on digital marketing.", "hypothesis": "He was learning about marketing strategies.", "label": 1}
+{"premise": "She was walking her dog in the neighborhood park.", "hypothesis": "She was walking her pet outside.", "label": 1}
+{"premise": "She was walking her dog in the neighborhood park.", "hypothesis": "She was not walking her dog.", "label": 2}
+{"premise": "The children were building a fort with blankets and pillows.", "hypothesis": "The children were not building anything.", "label": 2}
+{"premise": "The children were building a fort with blankets and pillows.", "hypothesis": "They were making a cozy hideout.", "label": 1}
+{"premise": "They enjoyed a relaxing evening watching movies.", "hypothesis": "They spent time together watching films.", "label": 1}
+{"premise": "They enjoyed a relaxing evening watching movies.", "hypothesis": "They did not watch any movies.", "label": 2}
+{"premise": "He was working in the garden all afternoon.", "hypothesis": "He was not working in the garden.", "label": 2}
+{"premise": "He was working in the garden all afternoon.", "hypothesis": "He spent time outdoors gardening.", "label": 1}
+{"premise": "She went to the market to buy fresh vegetables.", "hypothesis": "She was shopping for food.", "label": 1}
+{"premise": "She went to the market to buy fresh vegetables.", "hypothesis": "She did not go to the market.", "label": 2}
+{"premise": "He was fixing his car in the garage.", "hypothesis": "He was not fixing his car.", "label": 2}
+{"premise": "He was fixing his car in the garage.", "hypothesis": "He was repairing his vehicle.", "label": 1}
+{"premise": "They were practicing soccer in the park.", "hypothesis": "They were playing sports outside.", "label": 1}
+{"premise": "They were practicing soccer in the park.", "hypothesis": "They were not practicing soccer.", "label": 2}
+{"premise": "She was making a scrapbook of her travels.", "hypothesis": "She enjoyed documenting her trips.", "label": 1}
+{"premise": "She was making a scrapbook of her travels.", "hypothesis": "She was not making a scrapbook.", "label": 2}
+{"premise": "They were attending a live concert in the city.", "hypothesis": "They were not at the concert.", "label": 2}
+{"premise": "They were attending a live concert in the city.", "hypothesis": "They enjoyed the performance together.", "label": 1}
+{"premise": "He was practicing his guitar for an upcoming performance.", "hypothesis": "He was getting ready for a show.", "label": 1}
+{"premise": "He was practicing his guitar for an upcoming performance.", "hypothesis": "He was not playing the guitar.", "label": 2}
+{"premise": "They were hiking in the mountains on the weekend.", "hypothesis": "They did not go hiking.", "label": 2}
+{"premise": "They were hiking in the mountains on the weekend.", "hypothesis": "They were enjoying nature together.", "label": 1}
+{"premise": "She was organizing her bookshelf by genre.", "hypothesis": "She liked keeping her books in order.", "label": 1}
+{"premise": "She was organizing her bookshelf by genre.", "hypothesis": "She was not organizing her bookshelf.", "label": 2}
+{"premise": "They were having a picnic in the park under the trees.", "hypothesis": "They were not having a picnic.", "label": 2}
+{"premise": "They were having a picnic in the park under the trees.", "hypothesis": "They enjoyed eating outside together.", "label": 1}
+{"premise": "He was repairing his bike in the garage.", "hypothesis": "He was fixing his bicycle.", "label": 1}
+{"premise": "He was repairing his bike in the garage.", "hypothesis": "He was not working on his bike.", "label": 2}
+{"premise": "She was trying a new recipe for dinner.", "hypothesis": "She was not cooking.", "label": 2}
+{"premise": "She was trying a new recipe for dinner.", "hypothesis": "She was cooking something new.", "label": 1}
+{"premise": "They were taking a walk through the city streets.", "hypothesis": "They enjoyed walking around the city.", "label": 1}
+{"premise": "They were taking a walk through the city streets.", "hypothesis": "They were not walking in the city.", "label": 2}
+{"premise": "He was attending an art exhibit at the museum.", "hypothesis": "He was not at the museum.", "label": 2}
+{"premise": "He was attending an art exhibit at the museum.", "hypothesis": "He enjoyed viewing artwork at the museum.", "label": 1}
+{"premise": "She was playing the piano at a recital.", "hypothesis": "She was not playing the piano.", "label": 2}
+{"premise": "She was playing the piano at a recital.", "hypothesis": "She performed music for an audience.", "label": 1}
+{"premise": "They went to a coffee shop to meet with friends.", "hypothesis": "They enjoyed spending time together at a caf\u00c3\u00a9.", "label": 1}
+{"premise": "They went to a coffee shop to meet with friends.", "hypothesis": "They were not at the coffee shop.", "label": 2}
+{"premise": "He was studying for his upcoming exam all night.", "hypothesis": "He was not studying for the exam.", "label": 2}
+{"premise": "He was studying for his upcoming exam all night.", "hypothesis": "He was preparing for his test.", "label": 1}
+{"premise": "She was volunteering at the animal shelter on weekends.", "hypothesis": "She helped at the shelter regularly.", "label": 1}
+{"premise": "She was volunteering at the animal shelter on weekends.", "hypothesis": "She was not volunteering.", "label": 2}
+{"premise": "They were playing board games at the party.", "hypothesis": "They were not playing games.", "label": 2}
+{"premise": "They were playing board games at the party.", "hypothesis": "They were having fun with games.", "label": 1}
+{"premise": "He was watching a live broadcast of the concert.", "hypothesis": "He was enjoying the concert from home.", "label": 1}
+{"premise": "He was watching a live broadcast of the concert.", "hypothesis": "He was not watching the concert.", "label": 2}
+{"premise": "She was reading an article about climate change.", "hypothesis": "She was learning about the environment.", "label": 1}
+{"premise": "She was reading an article about climate change.", "hypothesis": "She was not reading any article.", "label": 2}
+{"premise": "They were cooking dinner together in the kitchen.", "hypothesis": "They were not cooking dinner.", "label": 2}
+{"premise": "They were cooking dinner together in the kitchen.", "hypothesis": "They enjoyed preparing food as a team.", "label": 1}
+{"premise": "He was participating in a charity run for cancer research.", "hypothesis": "He was supporting a cause by running.", "label": 1}
+{"premise": "He was participating in a charity run for cancer research.", "hypothesis": "He did not participate in the run.", "label": 2}
+{"premise": "She was designing a new logo for her business.", "hypothesis": "She was not designing a logo.", "label": 2}
+{"premise": "She was designing a new logo for her business.", "hypothesis": "She worked on her business branding.", "label": 1}
+{"premise": "They were sitting by the fire in the living room.", "hypothesis": "They were enjoying a cozy evening indoors.", "label": 1}
+{"premise": "They were sitting by the fire in the living room.", "hypothesis": "They were not by the fire.", "label": 2}
+{"premise": "He was attending a cooking class to learn new skills.", "hypothesis": "He was not attending any class.", "label": 2}
+{"premise": "He was attending a cooking class to learn new skills.", "hypothesis": "He wanted to improve his cooking abilities.", "label": 1}
+{"premise": "She was writing a letter to a friend abroad.", "hypothesis": "She was communicating with a friend far away.", "label": 1}
+{"premise": "She was writing a letter to a friend abroad.", "hypothesis": "She was not writing a letter.", "label": 2}
+{"premise": "They were playing basketball at the local gym.", "hypothesis": "They were not playing basketball.", "label": 2}
+{"premise": "They were playing basketball at the local gym.", "hypothesis": "They were practicing basketball together.", "label": 1}
+{"premise": "He was preparing his backpack for the school trip.", "hypothesis": "He was getting ready for an outing.", "label": 1}
+{"premise": "He was preparing his backpack for the school trip.", "hypothesis": "He was not packing for the trip.", "label": 2}
+{"premise": "She was taking photos at her friend's wedding.", "hypothesis": "She was not taking photos.", "label": 2}
+{"premise": "She was taking photos at her friend's wedding.", "hypothesis": "She captured memories of the special day.", "label": 1}
+{"premise": "They went to a museum to see the new art exhibit.", "hypothesis": "They enjoyed exploring the museum.", "label": 1}
+{"premise": "They went to a museum to see the new art exhibit.", "hypothesis": "They did not visit the museum.", "label": 2}
+{"premise": "He was using a laptop to work from home.", "hypothesis": "He was not using a laptop.", "label": 2}
+{"premise": "He was using a laptop to work from home.", "hypothesis": "He was working remotely.", "label": 1}
+{"premise": "She was knitting a hat for the winter season.", "hypothesis": "She made something useful for the cold weather.", "label": 1}
+{"premise": "She was knitting a hat for the winter season.", "hypothesis": "She was not knitting a hat.", "label": 2}
+{"premise": "They were hosting a barbecue in their backyard.", "hypothesis": "They were not hosting a barbecue.", "label": 2}
+{"premise": "They were hosting a barbecue in their backyard.", "hypothesis": "They enjoyed grilling food for friends.", "label": 1}
+{"premise": "He was checking his emails at the office.", "hypothesis": "He was not at the office.", "label": 2}
+{"premise": "He was checking his emails at the office.", "hypothesis": "He was working on his computer.", "label": 1}
+{"premise": "She was learning to play the violin.", "hypothesis": "She was studying a musical instrument.", "label": 1}
+{"premise": "She was learning to play the violin.", "hypothesis": "She was not learning the violin.", "label": 2}
+{"premise": "They were hiking through the forest on their vacation.", "hypothesis": "They explored nature during their time off.", "label": 1}
+{"premise": "They were hiking through the forest on their vacation.", "hypothesis": "They did not hike through the forest.", "label": 2}
+{"premise": "He was making a sandwich for lunch.", "hypothesis": "He was not making lunch.", "label": 2}
+{"premise": "He was making a sandwich for lunch.", "hypothesis": "He was preparing a meal for himself.", "label": 1}
+{"premise": "She was reading a novel while waiting at the airport.", "hypothesis": "She passed time reading a book.", "label": 1}
+{"premise": "She was reading a novel while waiting at the airport.", "hypothesis": "She was not reading anything.", "label": 2}
+{"premise": "They went for a bike ride on the weekend.", "hypothesis": "They did not go on a bike ride.", "label": 2}
+{"premise": "They went for a bike ride on the weekend.", "hypothesis": "They enjoyed cycling together.", "label": 1}
+{"premise": "He was taking a break from work in the afternoon.", "hypothesis": "He was relaxing during the workday.", "label": 1}
+{"premise": "He was taking a break from work in the afternoon.", "hypothesis": "He was not taking a break.", "label": 2}
+{"premise": "She was picking up groceries at the store.", "hypothesis": "She was not shopping for groceries.", "label": 2}
+{"premise": "She was picking up groceries at the store.", "hypothesis": "She was buying food for the week.", "label": 1}
+{"premise": "They went on a boat ride along the coast.", "hypothesis": "They enjoyed time on the water.", "label": 1}
+{"premise": "They went on a boat ride along the coast.", "hypothesis": "They did not go on a boat ride.", "label": 2}
+{"premise": "He was attending a lecture on computer science.", "hypothesis": "He was not at the lecture.", "label": 2}
+{"premise": "He was attending a lecture on computer science.", "hypothesis": "He was learning about technology.", "label": 1}
+{"premise": "She was participating in a charity walk for cancer research.", "hypothesis": "She did not take part in the charity walk.", "label": 2}
+{"premise": "She was participating in a charity walk for cancer research.", "hypothesis": "She was supporting a good cause.", "label": 1}
+{"premise": "They were celebrating their anniversary at a nice restaurant.", "hypothesis": "They enjoyed a special meal together.", "label": 1}
+{"premise": "They were celebrating their anniversary at a nice restaurant.", "hypothesis": "They did not celebrate their anniversary.", "label": 2}
