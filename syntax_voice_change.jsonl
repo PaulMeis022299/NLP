@@ -1,0 +1,200 @@
+{"premise": "The teacher explained the lesson to the students.", "hypothesis": "The lesson was explained to the students by the teacher.", "label": 0}
+{"premise": "The dog chased the cat through the garden.", "hypothesis": "The cat was chased by the dog through the garden.", "label": 0}
+{"premise": "The children built a sandcastle on the beach.", "hypothesis": "A sandcastle was built on the beach by the children.", "label": 0}
+{"premise": "The chef prepared a delicious meal for the guests.", "hypothesis": "A delicious meal was prepared for the guests by the chef.", "label": 0}
+{"premise": "The gardener watered the plants early in the morning.", "hypothesis": "The plants were watered early in the morning by the gardener.", "label": 0}
+{"premise": "The boy kicked the ball into the goal.", "hypothesis": "The ball was kicked into the goal by the boy.", "label": 0}
+{"premise": "The parents organized a birthday party for their child.", "hypothesis": "A birthday party was organized for their child by the parents.", "label": 0}
+{"premise": "The mailman delivered the letters to the neighborhood.", "hypothesis": "The letters were delivered to the neighborhood by the mailman.", "label": 0}
+{"premise": "The students cleaned the classroom after school.", "hypothesis": "The classroom was cleaned after school by the students.", "label": 0}
+{"premise": "The painter decorated the walls with vibrant colors.", "hypothesis": "The walls were decorated with vibrant colors by the painter.", "label": 0}
+{"premise": "The scientist conducted an experiment in the lab.", "hypothesis": "An experiment was conducted in the lab by the scientist.", "label": 0}
+{"premise": "The programmer wrote a new piece of code for the application.", "hypothesis": "A new piece of code was written for the application by the programmer.", "label": 0}
+{"premise": "The lawyer reviewed the contract carefully.", "hypothesis": "The contract was reviewed carefully by the lawyer.", "label": 0}
+{"premise": "The team submitted the project report last week.", "hypothesis": "The project report was submitted last week by the team.", "label": 0}
+{"premise": "The doctor prescribed medication for the patient.", "hypothesis": "Medication was prescribed for the patient by the doctor.", "label": 0}
+{"premise": "The architect designed a sustainable building for the city.", "hypothesis": "A sustainable building was designed for the city by the architect.", "label": 0}
+{"premise": "The manager assigned tasks to the employees.", "hypothesis": "Tasks were assigned to the employees by the manager.", "label": 0}
+{"premise": "The secretary scheduled the meeting for Friday.", "hypothesis": "The meeting was scheduled for Friday by the secretary.", "label": 0}
+{"premise": "The accountant prepared the financial statements for the company.", "hypothesis": "The financial statements were prepared for the company by the accountant.", "label": 0}
+{"premise": "The engineer repaired the broken machine in the factory.", "hypothesis": "The broken machine was repaired in the factory by the engineer.", "label": 0}
+{"premise": "The farmer harvested the crops before the rain started.", "hypothesis": "The crops were harvested before the rain started by the farmer.", "label": 0}
+{"premise": "The geologist mapped the volcanic region after the eruption.", "hypothesis": "The volcanic region was mapped after the eruption by the geologist.", "label": 0}
+{"premise": "The sun melted the snow on the mountain peaks.", "hypothesis": "The snow on the mountain peaks was melted by the sun.", "label": 0}
+{"premise": "The researchers discovered a new species of fish.", "hypothesis": "A new species of fish was discovered by the researchers.", "label": 0}
+{"premise": "The zookeeper fed the animals in their enclosures.", "hypothesis": "The animals were fed in their enclosures by the zookeeper.", "label": 0}
+{"premise": "The astronaut conducted an experiment in zero gravity.", "hypothesis": "An experiment was conducted in zero gravity by the astronaut.", "label": 0}
+{"premise": "The ocean currents shaped the coastline over centuries.", "hypothesis": "The coastline was shaped over centuries by the ocean currents.", "label": 0}
+{"premise": "The meteorologist predicted heavy rainfall for the weekend.", "hypothesis": "Heavy rainfall was predicted for the weekend by the meteorologist.", "label": 0}
+{"premise": "The bird built a nest in the tree's branches.", "hypothesis": "A nest was built in the tree's branches by the bird.", "label": 0}
+{"premise": "The beekeeper harvested honey from the hives.", "hypothesis": "Honey was harvested from the hives by the beekeeper.", "label": 0}
+{"premise": "The emperor declared a new law across the kingdom.", "hypothesis": "A new law was declared across the kingdom by the emperor.", "label": 0}
+{"premise": "The soldiers defended the fort against the invaders.", "hypothesis": "The fort was defended against the invaders by the soldiers.", "label": 0}
+{"premise": "The explorers mapped uncharted territories during their expedition.", "hypothesis": "Uncharted territories were mapped during their expedition by the explorers.", "label": 0}
+{"premise": "The sculptor carved the statue from marble.", "hypothesis": "The statue was carved from marble by the sculptor.", "label": 0}
+{"premise": "The historian analyzed ancient artifacts from the excavation site.", "hypothesis": "Ancient artifacts from the excavation site were analyzed by the historian.", "label": 0}
+{"premise": "The revolutionaries overthrew the monarchy in 1789.", "hypothesis": "The monarchy was overthrown in 1789 by the revolutionaries.", "label": 0}
+{"premise": "The inventor patented a new machine for weaving cloth.", "hypothesis": "A new machine for weaving cloth was patented by the inventor.", "label": 0}
+{"premise": "The artist painted a mural on the church wall.", "hypothesis": "A mural was painted on the church wall by the artist.", "label": 0}
+{"premise": "The settlers established a colony on the island.", "hypothesis": "A colony was established on the island by the settlers.", "label": 0}
+{"premise": "The treaty ended the war between the two nations.", "hypothesis": "The war between the two nations was ended by the treaty.", "label": 0}
+{"premise": "The director shot the film in multiple locations.", "hypothesis": "The film was shot in multiple locations by the director.", "label": 0}
+{"premise": "The author wrote a bestselling novel last year.", "hypothesis": "A bestselling novel was written last year by the author.", "label": 0}
+{"premise": "The actor performed an emotional scene during the play.", "hypothesis": "An emotional scene was performed during the play by the actor.", "label": 0}
+{"premise": "The audience applauded the musician after the concert.", "hypothesis": "The musician was applauded after the concert by the audience.", "label": 0}
+{"premise": "The producer financed the entire movie project.", "hypothesis": "The entire movie project was financed by the producer.", "label": 0}
+{"premise": "The critics reviewed the latest Broadway show.", "hypothesis": "The latest Broadway show was reviewed by the critics.", "label": 0}
+{"premise": "The magician performed a mind-blowing trick.", "hypothesis": "A mind-blowing trick was performed by the magician.", "label": 0}
+{"premise": "The dancer choreographed a new routine for the performance.", "hypothesis": "A new routine was choreographed for the performance by the dancer.", "label": 0}
+{"premise": "The costume designer created outfits for the characters.", "hypothesis": "Outfits for the characters were created by the costume designer.", "label": 0}
+{"premise": "The singer recorded a chart-topping song in the studio.", "hypothesis": "A chart-topping song was recorded in the studio by the singer.", "label": 0}
+{"premise": "The player scored the winning goal during the match.", "hypothesis": "The winning goal was scored during the match by the player.", "label": 0}
+{"premise": "The coach developed a new strategy for the team.", "hypothesis": "A new strategy was developed for the team by the coach.", "label": 0}
+{"premise": "The referee awarded a penalty to the home team.", "hypothesis": "A penalty was awarded to the home team by the referee.", "label": 0}
+{"premise": "The athlete broke the world record in the race.", "hypothesis": "The world record was broken in the race by the athlete.", "label": 0}
+{"premise": "The crowd cheered the team after their victory.", "hypothesis": "The team was cheered after their victory by the crowd.", "label": 0}
+{"premise": "The defender blocked the opponent's shot on goal.", "hypothesis": "The opponent's shot on goal was blocked by the defender.", "label": 0}
+{"premise": "The organizers planned the tournament months in advance.", "hypothesis": "The tournament was planned months in advance by the organizers.", "label": 0}
+{"premise": "The swimmer won a gold medal at the Olympics.", "hypothesis": "A gold medal was won at the Olympics by the swimmer.", "label": 0}
+{"premise": "The sprinter completed the race in record time.", "hypothesis": "The race was completed in record time by the sprinter.", "label": 0}
+{"premise": "The tennis player hit an ace to win the match.", "hypothesis": "An ace was hit to win the match by the tennis player.", "label": 0}
+{"premise": "The programmer fixed a bug in the application.", "hypothesis": "A bug in the application was fixed by the programmer.", "label": 0}
+{"premise": "The developers launched a new feature for the platform.", "hypothesis": "A new feature was launched for the platform by the developers.", "label": 0}
+{"premise": "The hacker breached the system's security protocols.", "hypothesis": "The system's security protocols were breached by the hacker.", "label": 0}
+{"premise": "The IT team installed new software on the computers.", "hypothesis": "New software was installed on the computers by the IT team.", "label": 0}
+{"premise": "The researcher improved the algorithm's efficiency.", "hypothesis": "The algorithm's efficiency was improved by the researcher.", "label": 0}
+{"premise": "The company manufactured the latest smartphone model.", "hypothesis": "The latest smartphone model was manufactured by the company.", "label": 0}
+{"premise": "The data analyst created a report from the survey results.", "hypothesis": "A report was created from the survey results by the data analyst.", "label": 0}
+{"premise": "The technician repaired the server after the crash.", "hypothesis": "The server was repaired after the crash by the technician.", "label": 0}
+{"premise": "The robot assembled parts on the production line.", "hypothesis": "Parts on the production line were assembled by the robot.", "label": 0}
+{"premise": "The designer developed an intuitive user interface.", "hypothesis": "An intuitive user interface was developed by the designer.", "label": 0}
+{"premise": "The friend gave a thoughtful gift for the birthday.", "hypothesis": "A thoughtful gift was given for the birthday by the friend.", "label": 0}
+{"premise": "The parents supported their child through tough times.", "hypothesis": "The child was supported through tough times by the parents.", "label": 0}
+{"premise": "The sibling baked a cake for the celebration.", "hypothesis": "A cake was baked for the celebration by the sibling.", "label": 0}
+{"premise": "The teacher encouraged the student to pursue their passion.", "hypothesis": "The student was encouraged to pursue their passion by the teacher.", "label": 0}
+{"premise": "The mentor guided the intern during the project.", "hypothesis": "The intern was guided during the project by the mentor.", "label": 0}
+{"premise": "The grandparents told stories to the children.", "hypothesis": "Stories were told to the children by the grandparents.", "label": 0}
+{"premise": "The coach motivated the team before the game.", "hypothesis": "The team was motivated before the game by the coach.", "label": 0}
+{"premise": "The neighbor helped with the gardening last weekend.", "hypothesis": "The gardening was helped with last weekend by the neighbor.", "label": 0}
+{"premise": "The colleague shared valuable insights during the meeting.", "hypothesis": "Valuable insights were shared during the meeting by the colleague.", "label": 0}
+{"premise": "The partner planned a surprise for their anniversary.", "hypothesis": "A surprise was planned for their anniversary by the partner.", "label": 0}
+{"premise": "The AI solved the complex problem in seconds.", "hypothesis": "The complex problem was solved in seconds by the AI.", "label": 0}
+{"premise": "The alien visited the Earth to study human behavior.", "hypothesis": "The Earth was visited to study human behavior by the alien.", "label": 0}
+{"premise": "The time traveler changed the course of history.", "hypothesis": "The course of history was changed by the time traveler.", "label": 0}
+{"premise": "The hero saved the city from destruction.", "hypothesis": "The city was saved from destruction by the hero.", "label": 0}
+{"premise": "The scientists built a colony on Mars.", "hypothesis": "A colony was built on Mars by the scientists.", "label": 0}
+{"premise": "The explorers discovered an ancient artifact in the ruins.", "hypothesis": "An ancient artifact was discovered in the ruins by the explorers.", "label": 0}
+{"premise": "The author imagined a world with no gravity.", "hypothesis": "A world with no gravity was imagined by the author.", "label": 0}
+{"premise": "The robot completed the task without human intervention.", "hypothesis": "The task was completed without human intervention by the robot.", "label": 0}
+{"premise": "The hacker accessed confidential files from the database.", "hypothesis": "Confidential files were accessed from the database by the hacker.", "label": 0}
+{"premise": "The wizard cast a powerful spell to protect the kingdom.", "hypothesis": "A powerful spell was cast to protect the kingdom by the wizard.", "label": 0}
+{"premise": "The chef cooked a special dish for the holiday dinner.", "hypothesis": "A special dish was cooked for the holiday dinner by the chef.", "label": 0}
+{"premise": "The driver parked the car in the designated spot.", "hypothesis": "The car was parked in the designated spot by the driver.", "label": 0}
+{"premise": "The artist drew a beautiful portrait of her friend.", "hypothesis": "A beautiful portrait of her friend was drawn by the artist.", "label": 0}
+{"premise": "The barista served a latte with a smile.", "hypothesis": "A latte was served with a smile by the barista.", "label": 0}
+{"premise": "The delivery person dropped off the package at the door.", "hypothesis": "The package was dropped off at the door by the delivery person.", "label": 0}
+{"premise": "The librarian arranged the books on the shelves.", "hypothesis": "The books were arranged on the shelves by the librarian.", "label": 0}
+{"premise": "The customer placed an order for a large pizza.", "hypothesis": "An order for a large pizza was placed by the customer.", "label": 0}
+{"premise": "The waiter brought the check to the table.", "hypothesis": "The check was brought to the table by the waiter.", "label": 0}
+{"premise": "The host welcomed the guests to the party.", "hypothesis": "The guests were welcomed to the party by the host.", "label": 0}
+{"premise": "The mechanic fixed the car's engine before the road trip.", "hypothesis": "The car's engine was fixed before the road trip by the mechanic.", "label": 0}
+{"premise": "The professor taught an advanced course on physics.", "hypothesis": "An advanced course on physics was taught by the professor.", "label": 0}
+{"premise": "The tutor explained the math problem to the student.", "hypothesis": "The math problem was explained to the student by the tutor.", "label": 0}
+{"premise": "The students presented their research findings at the conference.", "hypothesis": "Their research findings were presented at the conference by the students.", "label": 0}
+{"premise": "The principal announced the winners of the competition.", "hypothesis": "The winners of the competition were announced by the principal.", "label": 0}
+{"premise": "The librarian recommended a book on ancient history.", "hypothesis": "A book on ancient history was recommended by the librarian.", "label": 0}
+{"premise": "The teacher assigned homework on the solar system.", "hypothesis": "Homework on the solar system was assigned by the teacher.", "label": 0}
+{"premise": "The lecturer gave an engaging talk on climate change.", "hypothesis": "An engaging talk on climate change was given by the lecturer.", "label": 0}
+{"premise": "The mentor shared advice on career development.", "hypothesis": "Advice on career development was shared by the mentor.", "label": 0}
+{"premise": "The students wrote essays on the topic of sustainability.", "hypothesis": "Essays on the topic of sustainability were written by the students.", "label": 0}
+{"premise": "The instructor demonstrated the proper use of lab equipment.", "hypothesis": "The proper use of lab equipment was demonstrated by the instructor.", "label": 0}
+{"premise": "The pilot flew the airplane across the Atlantic.", "hypothesis": "The airplane was flown across the Atlantic by the pilot.", "label": 0}
+{"premise": "The traveler took stunning photos of the sunset.", "hypothesis": "Stunning photos of the sunset were taken by the traveler.", "label": 0}
+{"premise": "The tour guide explained the history of the ancient ruins.", "hypothesis": "The history of the ancient ruins was explained by the tour guide.", "label": 0}
+{"premise": "The hikers followed the trail to the mountain peak.", "hypothesis": "The trail to the mountain peak was followed by the hikers.", "label": 0}
+{"premise": "The adventurer crossed the desert on foot.", "hypothesis": "The desert was crossed on foot by the adventurer.", "label": 0}
+{"premise": "The crew navigated the ship through the storm.", "hypothesis": "The ship was navigated through the storm by the crew.", "label": 0}
+{"premise": "The photographer captured the beauty of the northern lights.", "hypothesis": "The beauty of the northern lights was captured by the photographer.", "label": 0}
+{"premise": "The backpacker set up camp by the river.", "hypothesis": "Camp was set up by the river by the backpacker.", "label": 0}
+{"premise": "The tourists admired the architecture of the cathedral.", "hypothesis": "The architecture of the cathedral was admired by the tourists.", "label": 0}
+{"premise": "The climbers scaled the rocky cliffs with precision.", "hypothesis": "The rocky cliffs were scaled with precision by the climbers.", "label": 0}
+{"premise": "The entrepreneur founded a successful startup.", "hypothesis": "A successful startup was founded by the entrepreneur.", "label": 0}
+{"premise": "The CEO approved the new marketing strategy.", "hypothesis": "The new marketing strategy was approved by the CEO.", "label": 0}
+{"premise": "The investors funded the project after thorough evaluation.", "hypothesis": "The project was funded after thorough evaluation by the investors.", "label": 0}
+{"premise": "The sales team closed a major deal with the client.", "hypothesis": "A major deal with the client was closed by the sales team.", "label": 0}
+{"premise": "The employees organized a charity event for the community.", "hypothesis": "A charity event for the community was organized by the employees.", "label": 0}
+{"premise": "The company launched a new product line last month.", "hypothesis": "A new product line was launched last month by the company.", "label": 0}
+{"premise": "The analyst prepared a detailed report on market trends.", "hypothesis": "A detailed report on market trends was prepared by the analyst.", "label": 0}
+{"premise": "The consultant advised the firm on cost-saving measures.", "hypothesis": "Cost-saving measures were advised by the consultant to the firm.", "label": 0}
+{"premise": "The manager conducted performance reviews for the team.", "hypothesis": "Performance reviews for the team were conducted by the manager.", "label": 0}
+{"premise": "The workers completed the construction project ahead of schedule.", "hypothesis": "The construction project was completed ahead of schedule by the workers.", "label": 0}
+{"premise": "The firefighter extinguished the flames in the burning building.", "hypothesis": "The flames in the burning building were extinguished by the firefighter.", "label": 0}
+{"premise": "The author signed copies of her book at the event.", "hypothesis": "Copies of her book were signed at the event by the author.", "label": 0}
+{"premise": "The politician addressed the crowd during the rally.", "hypothesis": "The crowd was addressed during the rally by the politician.", "label": 0}
+{"premise": "The scientist analyzed the samples under a microscope.", "hypothesis": "The samples were analyzed under a microscope by the scientist.", "label": 0}
+{"premise": "The nurse administered medication to the patient.", "hypothesis": "Medication was administered to the patient by the nurse.", "label": 0}
+{"premise": "The chef created a unique recipe for the competition.", "hypothesis": "A unique recipe was created for the competition by the chef.", "label": 0}
+{"premise": "The engineer designed a prototype for the new vehicle.", "hypothesis": "A prototype for the new vehicle was designed by the engineer.", "label": 0}
+{"premise": "The farmer planted seeds in the field before the rain.", "hypothesis": "Seeds were planted in the field before the rain by the farmer.", "label": 0}
+{"premise": "The poet recited a beautiful poem at the gathering.", "hypothesis": "A beautiful poem was recited at the gathering by the poet.", "label": 0}
+{"premise": "The artist sculpted a masterpiece from clay.", "hypothesis": "A masterpiece was sculpted from clay by the artist.", "label": 0}
+{"premise": "The doctor performed a complex surgery successfully.", "hypothesis": "A complex surgery was performed successfully by the doctor.", "label": 0}
+{"premise": "The pharmacist prepared the medication for the patient.", "hypothesis": "The medication was prepared for the patient by the pharmacist.", "label": 0}
+{"premise": "The therapist guided the patient through recovery exercises.", "hypothesis": "The patient was guided through recovery exercises by the therapist.", "label": 0}
+{"premise": "The researcher discovered a new treatment for the disease.", "hypothesis": "A new treatment for the disease was discovered by the researcher.", "label": 0}
+{"premise": "The nurse monitored the patient's vital signs throughout the night.", "hypothesis": "The patient's vital signs were monitored throughout the night by the nurse.", "label": 0}
+{"premise": "The dentist cleaned the patient's teeth during the appointment.", "hypothesis": "The patient's teeth were cleaned during the appointment by the dentist.", "label": 0}
+{"premise": "The surgeon explained the procedure to the family before the operation.", "hypothesis": "The procedure was explained to the family before the operation by the surgeon.", "label": 0}
+{"premise": "The paramedics transported the injured man to the hospital.", "hypothesis": "The injured man was transported to the hospital by the paramedics.", "label": 0}
+{"premise": "The dietitian created a personalized meal plan for the client.", "hypothesis": "A personalized meal plan was created for the client by the dietitian.", "label": 0}
+{"premise": "The lab technician analyzed the blood sample for abnormalities.", "hypothesis": "The blood sample was analyzed for abnormalities by the lab technician.", "label": 0}
+{"premise": "The conservationists planted trees in the deforested area.", "hypothesis": "Trees were planted in the deforested area by the conservationists.", "label": 0}
+{"premise": "The volunteers cleaned the beach after the storm.", "hypothesis": "The beach was cleaned after the storm by the volunteers.", "label": 0}
+{"premise": "The activists organized a rally to raise awareness about climate change.", "hypothesis": "A rally to raise awareness about climate change was organized by the activists.", "label": 0}
+{"premise": "The scientist measured carbon emissions in the city.", "hypothesis": "Carbon emissions in the city were measured by the scientist.", "label": 0}
+{"premise": "The government implemented policies to reduce pollution.", "hypothesis": "Policies to reduce pollution were implemented by the government.", "label": 0}
+{"premise": "The students started a campaign to save endangered species.", "hypothesis": "A campaign to save endangered species was started by the students.", "label": 0}
+{"premise": "The engineers designed a system to recycle wastewater.", "hypothesis": "A system to recycle wastewater was designed by the engineers.", "label": 0}
+{"premise": "The gardeners installed a rainwater harvesting system in the park.", "hypothesis": "A rainwater harvesting system was installed in the park by the gardeners.", "label": 0}
+{"premise": "The researchers monitored the coral reefs for signs of bleaching.", "hypothesis": "The coral reefs were monitored for signs of bleaching by the researchers.", "label": 0}
+{"premise": "The volunteers distributed reusable bags at the local market.", "hypothesis": "Reusable bags were distributed at the local market by the volunteers.", "label": 0}
+{"premise": "The police arrested the suspect after the investigation.", "hypothesis": "The suspect was arrested after the investigation by the police.", "label": 0}
+{"premise": "The lawyer presented strong evidence in court.", "hypothesis": "Strong evidence was presented in court by the lawyer.", "label": 0}
+{"premise": "The judge announced the verdict after deliberation.", "hypothesis": "The verdict was announced after deliberation by the judge.", "label": 0}
+{"premise": "The detectives solved the case using advanced forensic techniques.", "hypothesis": "The case was solved using advanced forensic techniques by the detectives.", "label": 0}
+{"premise": "The prosecutor questioned the witness during the trial.", "hypothesis": "The witness was questioned during the trial by the prosecutor.", "label": 0}
+{"premise": "The jury reviewed all the evidence before making a decision.", "hypothesis": "All the evidence was reviewed before making a decision by the jury.", "label": 0}
+{"premise": "The defendant denied the accusations during the hearing.", "hypothesis": "The accusations were denied during the hearing by the defendant.", "label": 0}
+{"premise": "The security guards monitored the premises throughout the event.", "hypothesis": "The premises were monitored throughout the event by the security guards.", "label": 0}
+{"premise": "The lawyer negotiated a settlement between the two parties.", "hypothesis": "A settlement between the two parties was negotiated by the lawyer.", "label": 0}
+{"premise": "The officer issued a citation for reckless driving.", "hypothesis": "A citation for reckless driving was issued by the officer.", "label": 0}
+{"premise": "The astronomers observed a rare celestial event.", "hypothesis": "A rare celestial event was observed by the astronomers.", "label": 0}
+{"premise": "The chemist synthesized a new compound in the lab.", "hypothesis": "A new compound was synthesized in the lab by the chemist.", "label": 0}
+{"premise": "The physicist conducted experiments to test the hypothesis.", "hypothesis": "Experiments to test the hypothesis were conducted by the physicist.", "label": 0}
+{"premise": "The biologist documented the behavior of a unique species.", "hypothesis": "The behavior of a unique species was documented by the biologist.", "label": 0}
+{"premise": "The researchers published their findings in a leading journal.", "hypothesis": "Their findings were published in a leading journal by the researchers.", "label": 0}
+{"premise": "The engineers built a prototype for the renewable energy project.", "hypothesis": "A prototype for the renewable energy project was built by the engineers.", "label": 0}
+{"premise": "The geologists studied the rock formations in the area.", "hypothesis": "The rock formations in the area were studied by the geologists.", "label": 0}
+{"premise": "The paleontologists discovered fossils in the excavation site.", "hypothesis": "Fossils were discovered in the excavation site by the paleontologists.", "label": 0}
+{"premise": "The botanist identified a previously unknown plant species.", "hypothesis": "A previously unknown plant species was identified by the botanist.", "label": 0}
+{"premise": "The medical researchers tested a vaccine for the new virus.", "hypothesis": "A vaccine for the new virus was tested by the medical researchers.", "label": 0}
+{"premise": "The community hosted a festival to celebrate local culture.", "hypothesis": "A festival to celebrate local culture was hosted by the community.", "label": 0}
+{"premise": "The neighbors organized a block party for the weekend.", "hypothesis": "A block party for the weekend was organized by the neighbors.", "label": 0}
+{"premise": "The friends planned a surprise party for their roommate.", "hypothesis": "A surprise party for their roommate was planned by the friends.", "label": 0}
+{"premise": "The volunteers distributed food to those in need.", "hypothesis": "Food was distributed to those in need by the volunteers.", "label": 0}
+{"premise": "The family celebrated a reunion after many years apart.", "hypothesis": "A reunion was celebrated after many years apart by the family.", "label": 0}
+{"premise": "The children performed a play for their parents.", "hypothesis": "A play was performed for their parents by the children.", "label": 0}
+{"premise": "The community built a playground for the neighborhood kids.", "hypothesis": "A playground for the neighborhood kids was built by the community.", "label": 0}
+{"premise": "The guests complimented the chef on the excellent meal.", "hypothesis": "The chef was complimented on the excellent meal by the guests.", "label": 0}
+{"premise": "The teacher invited the parents to attend the school event.", "hypothesis": "The parents were invited to attend the school event by the teacher.", "label": 0}
+{"premise": "The elder shared wisdom with the younger generation.", "hypothesis": "Wisdom was shared with the younger generation by the elder.", "label": 0}
+{"premise": "The writer penned a gripping mystery novel.", "hypothesis": "A gripping mystery novel was penned by the writer.", "label": 0}
+{"premise": "The director choreographed an intricate dance routine.", "hypothesis": "An intricate dance routine was choreographed by the director.", "label": 0}
+{"premise": "The musician composed a beautiful symphony.", "hypothesis": "A beautiful symphony was composed by the musician.", "label": 0}
+{"premise": "The sculptor crafted a stunning piece of art.", "hypothesis": "A stunning piece of art was crafted by the sculptor.", "label": 0}
+{"premise": "The painter created a masterpiece on a large canvas.", "hypothesis": "A masterpiece was created on a large canvas by the painter.", "label": 0}
+{"premise": "The songwriter wrote heartfelt lyrics for the album.", "hypothesis": "Heartfelt lyrics for the album were written by the songwriter.", "label": 0}
+{"premise": "The filmmaker produced an award-winning documentary.", "hypothesis": "An award-winning documentary was produced by the filmmaker.", "label": 0}
+{"premise": "The architect designed an innovative skyscraper.", "hypothesis": "An innovative skyscraper was designed by the architect.", "label": 0}
+{"premise": "The photographer captured an iconic image of the city.", "hypothesis": "An iconic image of the city was captured by the photographer.", "label": 0}
+{"premise": "The artisan wove a colorful tapestry by hand.", "hypothesis": "A colorful tapestry was woven by hand by the artisan.", "label": 0}
