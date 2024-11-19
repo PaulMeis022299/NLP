@@ -65,6 +65,7 @@ def compute_metrics_custom(eval_pred: EvalPrediction):
     # Macro-average F1 score
     macro_f1 = np.mean(f1_scores)
 
+    '''
     # Calculate confusion matrix
     num_labels = len(unique_labels)
     confusion_matrix = np.zeros((num_labels, num_labels), dtype=int)
@@ -79,6 +80,8 @@ def compute_metrics_custom(eval_pred: EvalPrediction):
     }
     
     return {"accuracy": accuracy, "f1": macro_f1, **confusion_dict}
+    '''
+    return {"accuracy": accuracy, "f1": macro_f1}
 
 # This function preprocesses a question answering dataset, tokenizing the question and context text
 # and finding the right offsets for the answer spans in the tokenized context (to use as labels).
