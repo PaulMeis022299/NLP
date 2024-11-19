@@ -1,0 +1,200 @@
+{"premise": "Sarah loves reading.", "hypothesis": "It is Sarah who loves reading.", "label": 0}
+{"premise": "John called you last night.", "hypothesis": "It was John who called you last night.", "label": 0}
+{"premise": "The weather keeps us inside.", "hypothesis": "It is the weather that keeps us inside.", "label": 0}
+{"premise": "The teacher gave the lecture.", "hypothesis": "It was the teacher who gave the lecture.", "label": 0}
+{"premise": "The dog loves to chase balls.", "hypothesis": "It is the dog that loves to chase balls.", "label": 0}
+{"premise": "The kids played outside all afternoon.", "hypothesis": "It was the kids who played outside all afternoon.", "label": 0}
+{"premise": "The book changed my perspective.", "hypothesis": "It is the book that changed my perspective.", "label": 0}
+{"premise": "The movie made me cry.", "hypothesis": "It was the movie that made me cry.", "label": 0}
+{"premise": "He tends to the garden every day.", "hypothesis": "It is the garden that he tends to every day.", "label": 0}
+{"premise": "The manager made the announcement.", "hypothesis": "It was the manager who made the announcement.", "label": 0}
+{"premise": "The car needs repair.", "hypothesis": "It is the car that needs repair.", "label": 0}
+{"premise": "The cat knocked over the vase.", "hypothesis": "It was the cat that knocked over the vase.", "label": 0}
+{"premise": "My brother enjoys cooking.", "hypothesis": "It is my brother who enjoys cooking.", "label": 0}
+{"premise": "We ordered the pizza for dinner.", "hypothesis": "It was the pizza that we ordered for dinner.", "label": 0}
+{"premise": "The song reminds me of my childhood.", "hypothesis": "It is the song that reminds me of my childhood.", "label": 0}
+{"premise": "The chef prepared the special dish.", "hypothesis": "It was the chef who prepared the special dish.", "label": 0}
+{"premise": "The painting hangs in the gallery.", "hypothesis": "It is the painting that hangs in the gallery.", "label": 0}
+{"premise": "The coffee woke me up this morning.", "hypothesis": "It was the coffee that woke me up this morning.", "label": 0}
+{"premise": "The test caused me stress.", "hypothesis": "It is the test that caused me stress.", "label": 0}
+{"premise": "I forgot to send the email.", "hypothesis": "It was the email that I forgot to send.", "label": 0}
+{"premise": "The street leads to the park.", "hypothesis": "It is the street that leads to the park.", "label": 0}
+{"premise": "The presentation impressed the clients.", "hypothesis": "It was the presentation that impressed the clients.", "label": 0}
+{"premise": "I use the laptop for work.", "hypothesis": "It is the laptop that I use for work.", "label": 0}
+{"premise": "The concert sold out quickly.", "hypothesis": "It was the concert that sold out quickly.", "label": 0}
+{"premise": "The lamp brightens the room.", "hypothesis": "It is the lamp that brightens the room.", "label": 0}
+{"premise": "The teacher explained the lesson.", "hypothesis": "It was the teacher who explained the lesson.", "label": 0}
+{"premise": "The train arrives at 9 AM.", "hypothesis": "It is the train that arrives at 9 AM.", "label": 0}
+{"premise": "The news shocked everyone.", "hypothesis": "It was the news that shocked everyone.", "label": 0}
+{"premise": "I love visiting the beach every summer.", "hypothesis": "It is the beach that I love visiting every summer.", "label": 0}
+{"premise": "The painting got the highest bid at the auction.", "hypothesis": "It was the painting that got the highest bid at the auction.", "label": 0}
+{"premise": "We walk through the park every morning.", "hypothesis": "It is the park that we walk through every morning.", "label": 0}
+{"premise": "The dog barked all night.", "hypothesis": "It was the dog that barked all night.", "label": 0}
+{"premise": "The chair needs to be fixed.", "hypothesis": "It is the chair that needs to be fixed.", "label": 0}
+{"premise": "We played the game for hours.", "hypothesis": "It was the game that we played for hours.", "label": 0}
+{"premise": "She prefers to eat fruit for breakfast.", "hypothesis": "It is the fruit that she prefers to eat for breakfast.", "label": 0}
+{"premise": "The speech moved the audience.", "hypothesis": "It was the speech that moved the audience.", "label": 0}
+{"premise": "I go to the gym after work.", "hypothesis": "It is the gym that I go to after work.", "label": 0}
+{"premise": "The rain ruined our plans.", "hypothesis": "It was the rain that ruined our plans.", "label": 0}
+{"premise": "The bakery makes the best bread.", "hypothesis": "It is the bakery that makes the best bread.", "label": 0}
+{"premise": "The restaurant served the most delicious food.", "hypothesis": "It was the restaurant that served the most delicious food.", "label": 0}
+{"premise": "The phone needs charging.", "hypothesis": "It is the phone that needs charging.", "label": 0}
+{"premise": "The sun sets in the west.", "hypothesis": "It is the sun that sets in the west.", "label": 0}
+{"premise": "She sings beautifully.", "hypothesis": "It is she who sings beautifully.", "label": 0}
+{"premise": "The laptop crashed again.", "hypothesis": "It was the laptop that crashed again.", "label": 0}
+{"premise": "They found the key under the mat.", "hypothesis": "It was the key that they found under the mat.", "label": 0}
+{"premise": "He plays the piano excellently.", "hypothesis": "It is he who plays the piano excellently.", "label": 0}
+{"premise": "The artist painted a masterpiece.", "hypothesis": "It was the artist who painted a masterpiece.", "label": 0}
+{"premise": "I completed the project ahead of schedule.", "hypothesis": "It was the project that I completed ahead of schedule.", "label": 0}
+{"premise": "The phone rang at the wrong moment.", "hypothesis": "It was the phone that rang at the wrong moment.", "label": 0}
+{"premise": "She wore the red dress to the party.", "hypothesis": "It was the red dress that she wore to the party.", "label": 0}
+{"premise": "He broke the vase while cleaning.", "hypothesis": "It was the vase that he broke while cleaning.", "label": 0}
+{"premise": "They fixed the problem immediately.", "hypothesis": "It was the problem that they fixed immediately.", "label": 0}
+{"premise": "The hotel provides excellent service.", "hypothesis": "It is the hotel that provides excellent service.", "label": 0}
+{"premise": "The author wrote a new book.", "hypothesis": "It was the author who wrote a new book.", "label": 0}
+{"premise": "The dog ate the cake.", "hypothesis": "It was the dog that ate the cake.", "label": 0}
+{"premise": "They planted flowers in the garden.", "hypothesis": "It was the flowers that they planted in the garden.", "label": 0}
+{"premise": "She always comes to the meetings on time.", "hypothesis": "It is she who always comes to the meetings on time.", "label": 0}
+{"premise": "The kids love playing outside.", "hypothesis": "It is the kids who love playing outside.", "label": 0}
+{"premise": "He missed the bus this morning.", "hypothesis": "It was the bus that he missed this morning.", "label": 0}
+{"premise": "The weather was perfect for a picnic.", "hypothesis": "It was the weather that was perfect for a picnic.", "label": 0}
+{"premise": "She wore sunglasses at the beach.", "hypothesis": "It was the sunglasses that she wore at the beach.", "label": 0}
+{"premise": "They danced all night at the party.", "hypothesis": "It was the dancing that they did all night at the party.", "label": 0}
+{"premise": "He answered all the questions correctly.", "hypothesis": "It was the questions that he answered correctly.", "label": 0}
+{"premise": "The project finished on time.", "hypothesis": "It was the project that finished on time.", "label": 0}
+{"premise": "The chef prepared a gourmet meal.", "hypothesis": "It was the chef who prepared a gourmet meal.", "label": 0}
+{"premise": "The teacher gave the students an assignment.", "hypothesis": "It was the teacher who gave the students an assignment.", "label": 0}
+{"premise": "The storm caused significant damage.", "hypothesis": "It was the storm that caused significant damage.", "label": 0}
+{"premise": "She solved the problem by herself.", "hypothesis": "It was the problem that she solved by herself.", "label": 0}
+{"premise": "The company released a new product.", "hypothesis": "It was the company that released a new product.", "label": 0}
+{"premise": "He passed the exam with flying colors.", "hypothesis": "It was the exam that he passed with flying colors.", "label": 0}
+{"premise": "They decorated the house for the party.", "hypothesis": "It was the house that they decorated for the party.", "label": 0}
+{"premise": "She enjoyed the movie more than I did.", "hypothesis": "It was the movie that she enjoyed more than I did.", "label": 0}
+{"premise": "The book arrived in the mail today.", "hypothesis": "It was the book that arrived in the mail today.", "label": 0}
+{"premise": "The car needs an oil change.", "hypothesis": "It is the car that needs an oil change.", "label": 0}
+{"premise": "He solved the mystery in one day.", "hypothesis": "It was the mystery that he solved in one day.", "label": 0}
+{"premise": "The event was a huge success.", "hypothesis": "It was the event that was a huge success.", "label": 0}
+{"premise": "She helped me finish the project.", "hypothesis": "It was the project that she helped me finish.", "label": 0}
+{"premise": "They planned the trip for months.", "hypothesis": "It was the trip that they planned for months.", "label": 0}
+{"premise": "The hotel had a beautiful view.", "hypothesis": "It was the hotel that had a beautiful view.", "label": 0}
+{"premise": "He made an incredible discovery.", "hypothesis": "It was the discovery that he made.", "label": 0}
+{"premise": "She met her friends for lunch.", "hypothesis": "It was her friends that she met for lunch.", "label": 0}
+{"premise": "The restaurant served the best seafood.", "hypothesis": "It was the restaurant that served the best seafood.", "label": 0}
+{"premise": "The dog followed me home.", "hypothesis": "It was the dog that followed me home.", "label": 0}
+{"premise": "She baked a delicious cake for the party.", "hypothesis": "It was the cake that she baked for the party.", "label": 0}
+{"premise": "They designed the new logo themselves.", "hypothesis": "It was the logo that they designed themselves.", "label": 0}
+{"premise": "He spent the whole afternoon reading.", "hypothesis": "It was the afternoon that he spent reading.", "label": 0}
+{"premise": "The team won the championship.", "hypothesis": "It was the team that won the championship.", "label": 0}
+{"premise": "The city is known for its history.", "hypothesis": "It is the city that is known for its history.", "label": 0}
+{"premise": "She painted a portrait of her family.", "hypothesis": "It was the portrait that she painted of her family.", "label": 0}
+{"premise": "The children played in the park all day.", "hypothesis": "It was the park that the children played in all day.", "label": 0}
+{"premise": "The flowers bloomed early this year.", "hypothesis": "It was the flowers that bloomed early this year.", "label": 0}
+{"premise": "He climbed the mountain in record time.", "hypothesis": "It was the mountain that he climbed in record time.", "label": 0}
+{"premise": "The students completed their homework on time.", "hypothesis": "It was the homework that the students completed on time.", "label": 0}
+{"premise": "She organized the event perfectly.", "hypothesis": "It was the event that she organized perfectly.", "label": 0}
+{"premise": "The movie received great reviews.", "hypothesis": "It was the movie that received great reviews.", "label": 0}
+{"premise": "They cleaned the house thoroughly.", "hypothesis": "It was the house that they cleaned thoroughly.", "label": 0}
+{"premise": "He made a great presentation at the conference.", "hypothesis": "It was the presentation that he made at the conference.", "label": 0}
+{"premise": "The park is beautiful in the spring.", "hypothesis": "It is the park that is beautiful in the spring.", "label": 0}
+{"premise": "She wore a blue dress to the wedding.", "hypothesis": "It was the blue dress that she wore to the wedding.", "label": 0}
+{"premise": "The teacher explained the lesson clearly.", "hypothesis": "It was the lesson that the teacher explained clearly.", "label": 0}
+{"premise": "The cat chased the mouse.", "hypothesis": "It was the cat that chased the mouse.", "label": 0}
+{"premise": "The house has a beautiful garden.", "hypothesis": "It is the house that has a beautiful garden.", "label": 0}
+{"premise": "The students studied for the test.", "hypothesis": "It was the students who studied for the test.", "label": 0}
+{"premise": "The team celebrated their victory.", "hypothesis": "It was the victory that the team celebrated.", "label": 0}
+{"premise": "The city has a rich cultural heritage.", "hypothesis": "It is the city that has a rich cultural heritage.", "label": 0}
+{"premise": "The baby smiled for the first time.", "hypothesis": "It was the baby who smiled for the first time.", "label": 0}
+{"premise": "She read the letter carefully.", "hypothesis": "It was the letter that she read carefully.", "label": 0}
+{"premise": "They rented the house for the summer.", "hypothesis": "It was the house that they rented for the summer.", "label": 0}
+{"premise": "The storm passed quickly.", "hypothesis": "It was the storm that passed quickly.", "label": 0}
+{"premise": "The artist painted the mural on the wall.", "hypothesis": "It was the mural that the artist painted on the wall.", "label": 0}
+{"premise": "She found a solution to the problem.", "hypothesis": "It was the solution that she found to the problem.", "label": 0}
+{"premise": "They moved to a new apartment.", "hypothesis": "It was the new apartment that they moved to.", "label": 0}
+{"premise": "The fire caused a lot of damage.", "hypothesis": "It was the fire that caused a lot of damage.", "label": 0}
+{"premise": "He wrote the article for the newspaper.", "hypothesis": "It was the article that he wrote for the newspaper.", "label": 0}
+{"premise": "The weather was perfect for a hike.", "hypothesis": "It was the weather that was perfect for a hike.", "label": 0}
+{"premise": "The kids are excited for the trip.", "hypothesis": "It is the kids who are excited for the trip.", "label": 0}
+{"premise": "The company launched a new product.", "hypothesis": "It was the product that the company launched.", "label": 0}
+{"premise": "He gave a thoughtful gift.", "hypothesis": "It was the gift that he gave.", "label": 0}
+{"premise": "They had a wonderful time at the concert.", "hypothesis": "It was the concert that they had a wonderful time at.", "label": 0}
+{"premise": "She wore a beautiful necklace to the event.", "hypothesis": "It was the necklace that she wore to the event.", "label": 0}
+{"premise": "The new restaurant offers delicious food.", "hypothesis": "It is the restaurant that offers delicious food.", "label": 0}
+{"premise": "The dog jumped over the fence.", "hypothesis": "It was the dog that jumped over the fence.", "label": 0}
+{"premise": "He took a great photograph.", "hypothesis": "It was the photograph that he took.", "label": 0}
+{"premise": "The car broke down on the highway.", "hypothesis": "It was the car that broke down on the highway.", "label": 0}
+{"premise": "She solved the puzzle in no time.", "hypothesis": "It was the puzzle that she solved in no time.", "label": 0}
+{"premise": "The students worked hard on the project.", "hypothesis": "It was the project that the students worked hard on.", "label": 0}
+{"premise": "They enjoyed the concert last night.", "hypothesis": "It was the concert that they enjoyed last night.", "label": 0}
+{"premise": "He helped me with the homework.", "hypothesis": "It was the homework that he helped me with.", "label": 0}
+{"premise": "The book was very engaging.", "hypothesis": "It was the book that was very engaging.", "label": 0}
+{"premise": "The children played soccer in the park.", "hypothesis": "It was soccer that the children played in the park.", "label": 0}
+{"premise": "The movie was full of action.", "hypothesis": "It was the movie that was full of action.", "label": 0}
+{"premise": "He started a new business.", "hypothesis": "It was the business that he started.", "label": 0}
+{"premise": "The bakery makes delicious pastries.", "hypothesis": "It is the bakery that makes delicious pastries.", "label": 0}
+{"premise": "The singer performed beautifully on stage.", "hypothesis": "It was the singer who performed beautifully on stage.", "label": 0}
+{"premise": "The museum displays impressive artwork.", "hypothesis": "It is the museum that displays impressive artwork.", "label": 0}
+{"premise": "The phone has a lot of features.", "hypothesis": "It is the phone that has a lot of features.", "label": 0}
+{"premise": "He fixed the broken window.", "hypothesis": "It was the window that he fixed.", "label": 0}
+{"premise": "The students were excited about the trip.", "hypothesis": "It was the trip that the students were excited about.", "label": 0}
+{"premise": "The family moved into a bigger house.", "hypothesis": "It was the bigger house that the family moved into.", "label": 0}
+{"premise": "The manager approved the proposal.", "hypothesis": "It was the proposal that the manager approved.", "label": 0}
+{"premise": "She painted a landscape for the gallery.", "hypothesis": "It was the landscape that she painted for the gallery.", "label": 0}
+{"premise": "The chef prepared a special meal for the guests.", "hypothesis": "It was the meal that the chef prepared for the guests.", "label": 0}
+{"premise": "The students studied for the final exam.", "hypothesis": "It was the final exam that the students studied for.", "label": 0}
+{"premise": "He worked on the project all week.", "hypothesis": "It was the project that he worked on all week.", "label": 0}
+{"premise": "The teacher gave an interesting lecture.", "hypothesis": "It was the lecture that the teacher gave.", "label": 0}
+{"premise": "The cat curled up on the sofa.", "hypothesis": "It was the cat that curled up on the sofa.", "label": 0}
+{"premise": "They decorated the house with balloons.", "hypothesis": "It was the house that they decorated with balloons.", "label": 0}
+{"premise": "The weather changed unexpectedly.", "hypothesis": "It was the weather that changed unexpectedly.", "label": 0}
+{"premise": "The dog followed me into the house.", "hypothesis": "It was the dog that followed me into the house.", "label": 0}
+{"premise": "They visited the museum yesterday.", "hypothesis": "It was the museum that they visited yesterday.", "label": 0}
+{"premise": "The teacher assigned a challenging project.", "hypothesis": "It was the project that the teacher assigned.", "label": 0}
+{"premise": "He bought a new car yesterday.", "hypothesis": "It was the new car that he bought yesterday.", "label": 0}
+{"premise": "They renovated the kitchen last year.", "hypothesis": "It was the kitchen that they renovated last year.", "label": 0}
+{"premise": "The company made a significant profit.", "hypothesis": "It was the profit that the company made.", "label": 0}
+{"premise": "She told me the news with excitement.", "hypothesis": "It was the news that she told me with excitement.", "label": 0}
+{"premise": "The flowers bloomed brightly in the garden.", "hypothesis": "It was the flowers that bloomed brightly in the garden.", "label": 0}
+{"premise": "They enjoyed their vacation in Italy.", "hypothesis": "It was Italy that they enjoyed their vacation in.", "label": 0}
+{"premise": "The teacher corrected the test papers.", "hypothesis": "It was the test papers that the teacher corrected.", "label": 0}
+{"premise": "The storm lasted for hours.", "hypothesis": "It was the storm that lasted for hours.", "label": 0}
+{"premise": "He played the guitar during the concert.", "hypothesis": "It was the guitar that he played during the concert.", "label": 0}
+{"premise": "She designed a beautiful website.", "hypothesis": "It was the website that she designed.", "label": 0}
+{"premise": "The library offers a variety of books.", "hypothesis": "It is the library that offers a variety of books.", "label": 0}
+{"premise": "He performed the task flawlessly.", "hypothesis": "It was the task that he performed flawlessly.", "label": 0}
+{"premise": "They painted the house over the weekend.", "hypothesis": "It was the house that they painted over the weekend.", "label": 0}
+{"premise": "The concert was held at the stadium.", "hypothesis": "It was the stadium that the concert was held at.", "label": 0}
+{"premise": "The chef prepared an exquisite meal.", "hypothesis": "It was the meal that the chef prepared.", "label": 0}
+{"premise": "The athlete broke the record.", "hypothesis": "It was the record that the athlete broke.", "label": 0}
+{"premise": "She met her colleague for lunch.", "hypothesis": "It was her colleague that she met for lunch.", "label": 0}
+{"premise": "The team celebrated their championship win.", "hypothesis": "It was the championship win that the team celebrated.", "label": 0}
+{"premise": "The artist painted a portrait of his family.", "hypothesis": "It was the portrait that the artist painted of his family.", "label": 0}
+{"premise": "The kids were excited to visit the zoo.", "hypothesis": "It was the zoo that the kids were excited to visit.", "label": 0}
+{"premise": "The actor received an award for his performance.", "hypothesis": "It was the award that the actor received for his performance.", "label": 0}
+{"premise": "She ran a marathon last weekend.", "hypothesis": "It was the marathon that she ran last weekend.", "label": 0}
+{"premise": "They planted a tree in the yard.", "hypothesis": "It was the tree that they planted in the yard.", "label": 0}
+{"premise": "The company hosted a successful event.", "hypothesis": "It was the event that the company hosted.", "label": 0}
+{"premise": "He organized a surprise party for his friend.", "hypothesis": "It was the surprise party that he organized for his friend.", "label": 0}
+{"premise": "The dog chased after the ball.", "hypothesis": "It was the ball that the dog chased after.", "label": 0}
+{"premise": "The chef served the meal with great care.", "hypothesis": "It was the meal that the chef served with great care.", "label": 0}
+{"premise": "The students raised money for charity.", "hypothesis": "It was the money that the students raised for charity.", "label": 0}
+{"premise": "She delivered a powerful speech.", "hypothesis": "It was the speech that she delivered.", "label": 0}
+{"premise": "They fixed the broken chair.", "hypothesis": "It was the chair that they fixed.", "label": 0}
+{"premise": "The teacher reviewed the lesson before the test.", "hypothesis": "It was the lesson that the teacher reviewed before the test.", "label": 0}
+{"premise": "The kids played in the yard all afternoon.", "hypothesis": "It was the yard that the kids played in all afternoon.", "label": 0}
+{"premise": "The athlete trained hard for the competition.", "hypothesis": "It was the competition that the athlete trained hard for.", "label": 0}
+{"premise": "They decorated the room with balloons.", "hypothesis": "It was the room that they decorated with balloons.", "label": 0}
+{"premise": "The scientist made an important discovery.", "hypothesis": "It was the discovery that the scientist made.", "label": 0}
+{"premise": "She received a compliment on her outfit.", "hypothesis": "It was the compliment that she received on her outfit.", "label": 0}
+{"premise": "The team worked together to finish the project.", "hypothesis": "It was the project that the team worked together to finish.", "label": 0}
+{"premise": "The concert tickets sold out quickly.", "hypothesis": "It was the concert tickets that sold out quickly.", "label": 0}
+{"premise": "He organized a charity event for the cause.", "hypothesis": "It was the charity event that he organized for the cause.", "label": 0}
+{"premise": "The flowers smelled wonderful.", "hypothesis": "It was the flowers that smelled wonderful.", "label": 0}
+{"premise": "She gave a memorable speech at the conference.", "hypothesis": "It was the speech that she gave at the conference.", "label": 0}
+{"premise": "The team practiced every day for the match.", "hypothesis": "It was the match that the team practiced every day for.", "label": 0}
+{"premise": "The company offered a great deal on the product.", "hypothesis": "It was the deal that the company offered on the product.", "label": 0}
+{"premise": "The kids watched the movie all evening.", "hypothesis": "It was the movie that the kids watched all evening.", "label": 0}
+{"premise": "They moved to a new city last month.", "hypothesis": "It was the new city that they moved to last month.", "label": 0}
+{"premise": "The scientist presented his findings at the conference.", "hypothesis": "It was his findings that the scientist presented at the conference.", "label": 0}
+{"premise": "The man gave a donation to the charity.", "hypothesis": "It was the donation that the man gave to the charity.", "label": 0}
+{"premise": "She enjoyed the book more than the movie.", "hypothesis": "It was the book that she enjoyed more than the movie.", "label": 0}
+{"premise": "The artist exhibited his work in the gallery.", "hypothesis": "It was his work that the artist exhibited in the gallery.", "label": 0}
