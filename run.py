@@ -66,9 +66,23 @@ def main():
         # so if we want to use a jsonl file for evaluation we need to get the "train" split
         # from the loaded dataset
         eval_split = 'train'
-    elif 'anli_train' in args.dataset:
+    elif 'anli_r1' in args.dataset:
       dataset_id = None
-      dataset = datasets.load_dataset('json', data_files=args.dataset)
+      data_files = {
+                'train': 'anli_train_r1.jsonl',
+                'validation': 'anli_evaluation_r1.jsonl',
+                'test': 'anli_test_r1.jsonl'
+            }
+      dataset = datasets.load_dataset('json', data_files=data_files)
+      eval_split = 'validation'
+    elif 'anli_r2' in args.dataset:
+      dataset_id = None
+      data_files = {
+                'train': 'anli_train_r2.jsonl',
+                'validation': 'anli_evaluation_r2.jsonl',
+                'test': 'anli_test_r2.jsonl'
+            }
+      dataset = datasets.load_dataset('json', data_files=data_files)
       eval_split = 'validation'
     else:
         default_datasets = {'qa': ('squad',), 'nli': ('snli',)}
